@@ -12,10 +12,16 @@
 Bishkek (KG) → [tour] Issyk-Kul + Song-Kul (KG) → Cholpon-Ata (KG)
 → [bus $7] Almaty (KZ) → [overnight] Altyn Emel (KZ) → [day trip] Charyn Canyon (KZ)
 → [fly £48] Aktau (KZ) → [fly] Baku (AZ) → [train] Ganja (AZ)
-→ [land border] Tbilisi (GE, transit) → [marshrutka $15] Yerevan (AM)
-→ [marshrutka $15] Tbilisi (GE) → Kutaisi (GE) → Batumi (GE)
-→ [land border] Rize (TR) → Trabzon (TR)
+→ [land border] Tbilisi (GE) → [marshrutka $15] Yerevan (AM)
+→ [fly ~$80] Batumi (GE) → [day trip] Kutaisi (GE) → [land border] Rize (TR) → Trabzon (TR)
 ```
+
+### 🔀 Alternative Route (skip Ganja)
+```
+Baku (AZ) → [fly ~$60] Tbilisi (GE, brief stopover) → [marshrutka] Yerevan (AM)
+→ [marshrutka] Tbilisi (GE) → Kutaisi (GE) → Batumi (GE) → Rize (TR) → Trabzon (TR)
+```
+*Trade-off: saves ~1 day, misses Ganja + Lake Goygol, requires backtracking through Tbilisi twice (Tbilisi stopover outbound + return for Georgia leg). Main route below is preferred.*
 
 ---
 
@@ -24,8 +30,8 @@ Bishkek (KG) → [tour] Issyk-Kul + Song-Kul (KG) → Cholpon-Ata (KG)
 | Match | Date | ET | Your Location | Local Time |
 |-------|------|----|---------------|------------|
 | 🇦🇺 Australia vs 🇹🇷 Turkey | Jun 13 (Sat) | 12pm | **Baku 🇦🇿** | **20:00** 🍺 |
-| 🇹🇷 Turkey vs 🇵🇾 Paraguay | Jun 19 (Fri) | 12pm | **Yerevan 🇦🇲** | **20:00** 🍺 |
-| 🇹🇷 Turkey vs 🇺🇸 USA | Jun 25 (Thu) | 10pm | **Kutaisi 🇬🇪** | **06:00 Jun 26** ⏰ |
+| 🇹🇷 Turkey vs 🇵🇾 Paraguay | Jun 19 (Fri) | 12pm | **Tbilisi 🇬🇪** | **20:00** 🍺 |
+| 🇹🇷 Turkey vs 🇺🇸 USA | Jun 25 (Thu) | 10pm | **Yerevan 🇦🇲** | **06:00 Jun 26** ⏰ |
 | Round of 16 (if qualified) | Jul 1–4 | TBC | **Rize / Trabzon 🇹🇷** | TBC 🇹🇷 |
 
 ---
@@ -39,9 +45,10 @@ Bishkek (KG) → [tour] Issyk-Kul + Song-Kul (KG) → Cholpon-Ata (KG)
 | 🇰🇿 Aktau | 2 | ~$160 |
 | ✈️ Almaty → Aktau (World Ticket Ltd/Expedia) | — | £48 (~$60) |
 | ✈️ Aktau → Baku | — | ~$80 |
-| 🇦🇿 Baku + Ganja | 4 | ~$200 |
-| 🇦🇲 Armenia | 5 | ~$280 |
-| 🇬🇪 Georgia (Tbilisi + Kutaisi + Batumi) | 8 | ~$320 |
+| 🇦🇿 Baku + Ganja | 5 | ~$240 |
+| 🇦🇲 Armenia | 6 | ~$330 |
+| 🇬🇪 Georgia (Tbilisi + Batumi + Kutaisi day trip) | 6 | ~$260 |
+| ✈️ Yerevan → Batumi | — | ~$80–120 |
 | 🇹🇷 Turkey (Rize + Trabzon) | 5 | ~$260 |
 | **TOTAL (excl. flight home)** | **~40** | **~$2,520–2,700** |
 
@@ -50,7 +57,7 @@ Bishkek (KG) → [tour] Issyk-Kul + Song-Kul (KG) → Cholpon-Ata (KG)
 ## ⚠️ Key Logistics
 
 - 🚫 **Azerbaijan → Georgia**: Land border (Red Bridge) **open** — bus/taxi from Ganja via Red Bridge to Tbilisi is the route. Saves ~$120 vs flying.
-- 🚫 **Azerbaijan → Armenia**: No direct flights, no diplomatic relations. Route: Baku → Ganja → Tbilisi → Yerevan (marshrutka).
+- 🚫 **Azerbaijan → Armenia**: No direct flights, no diplomatic relations. Route: Baku → Ganja → Tbilisi → Yerevan (marshrutka). Return route: Yerevan → fly Batumi (check Jun 27 EVN→BUS).
 - 🚫 **Armenia → Turkey**: Border permanently **closed** since 1993. Cannot cross. Return to Tbilisi and continue west.
 - 🌧️ **Rize weather**: Must arrive before September (Sept avg 253mm rain). Arrive ~June 29 ✅
 - 🗺️ **Turkey coast order from Georgia**: Sarpi border → Hopa → **Rize** → Trabzon (west). Rize first, then Trabzon. No backtracking.
@@ -152,7 +159,7 @@ Bishkek (KG) → [tour] Issyk-Kul + Song-Kul (KG) → Cholpon-Ata (KG)
 
 ---
 
-## 🇦🇿 AZERBAIJAN: BAKU — June 12–16
+## 🇦🇿 AZERBAIJAN: BAKU — June 12–15
 
 ### June 12 (Fri) — Arrive Baku
 - Arrive ~17:00, check in Old City area, evening Baku Boulevard stroll
@@ -162,100 +169,115 @@ Bishkek (KG) → [tour] Issyk-Kul + Song-Kul (KG) → Cholpon-Ata (KG)
 - Flame Towers viewpoint, Nizami Street
 - **⚽ 20:00 (8pm Baku) — Australia vs Turkey** | Watch in a Baku sports bar 🍺
 
-### June 14 (Sun) — Architecture + Fire Sites
+### June 14 (Sun) — Gobustan + Mud Volcanoes
+- **Gobustan National Park** (~65km south): 6,000+ Bronze Age petroglyphs (UNESCO), mud volcano field (one of the world's densest concentrations), Gobustan Museum
+- **Absheron Mud Volcanoes** (~40km from city): alien landscape, low-risk eruptions — closest accessible field to Baku
+- Taxi/tour (~$40–60 for car, can combine both sites in one day)
+
+### June 15 (Mon) — Architecture + Fire Sites + Depart Ganja
 - Heydar Aliyev Centre (Zaha Hadid), Ateshgah Fire Temple, Yanar Dag Burning Mountain
 - **Evening: overnight train Baku → Ganja** (~$5–8, departs ~20:00, arrives early morning)
 
-### June 15 (Mon) — Ganja
+---
+
+## 🇦🇿 AZERBAIJAN: GANJA — June 16
+
+### June 16 (Tue) — Ganja
 - Nizami Mausoleum (great medieval poet, 12th century), Juma Mosque (1606 Safavid), Bottle House (48,000 glass bottles)
 - Afternoon: Lake Goygol (50km south, 1,556m, stunning blue mountain lake)
 
-### June 16 (Tue) — Ganja → Tbilisi → Yerevan
+### June 17 (Wed) — Ganja → Tbilisi
 - **🚙 Ganja → Red Bridge border crossing** (taxi/marshrutka ~$10)
 - Cross into Georgia → **marshrutka to Tbilisi** (~100km, ~2hrs, ~$5)
-- **Same day: marshrutka Tbilisi → Yerevan** (~$15–20, departs Ortachala bus station, ~5–6hrs)
-- Arrive Yerevan late evening
+- Arrive Tbilisi afternoon
 
-> **Why Ganja instead of flying Baku→Tbilisi?** Saves ~$120 on a flight, sees Azerbaijan's interesting second city and Lake Goygol, natural overland progression westward. Trade-off: lose Gobustan/Mud Volcanoes day.
+> **Why Ganja instead of flying Baku→Tbilisi?** Saves ~$120 on a flight, sees Azerbaijan's interesting second city and Lake Goygol, natural overland progression westward.
 
 ---
 
-## 🇦🇲 ARMENIA: YEREVAN — June 16–21
+## 🇬🇪 GEORGIA: TBILISI — June 17–20
 
-### June 16 (Tue, late) — Arrive Yerevan
-- Check in Republic Square area, late night khorovats + lavash
+### June 17 (Wed) — Arrive Tbilisi
+- Old Town evening wander, Sulphur Baths (Abanotubani, ~$20–30/hr private), khinkali dinner
 
-### June 17 (Wed) — Yerevan City
+### June 18 (Thu) — Tbilisi City
+- Narikala Fortress (cable car up, walk down), Old Town (Kala), Rustaveli Avenue
+- Georgian National Museum, Fabrika creative hub (evening)
+
+### June 19 (Fri) — Mtskheta Day Trip + ⚽ TURKEY MATCH 2
+- 20km from Tbilisi (~$1 marshrutka)
+- Svetitskhoveli Cathedral (UNESCO) + Jvari Monastery (6th century, confluence viewpoint)
+- **⚽ 20:00 (8pm Tbilisi) — Turkey vs Paraguay** | Watch in Tbilisi 🍺
+
+### June 20 (Sat) — Kakheti Wine Region
+- Sighnaghi walled hilltop city, Bodbe Convent
+- Wine tastings: Kindzmarauli, Rkatsiteli, Saperavi (Georgia = birthplace of wine, 8,000-year tradition)
+
+### June 21 (Sun) — Tbilisi → Yerevan
+- **🚌 Marshrutka Tbilisi → Yerevan** (~$15–20, departs Ortachala bus station ~10:00, ~5–6hrs)
+- Arrive Yerevan ~16:00
+
+> **Overnight train Tbilisi→Yerevan?** No longer operational — marshrutka is the standard route.
+
+---
+
+## 🇦🇲 ARMENIA: YEREVAN — June 21–27
+
+### June 21 (Sun) — Arrive Yerevan
+- Check in Republic Square area, evening khorovats + lavash
+
+### June 22 (Mon) — Yerevan City
 - Republic Square (dancing fountains at night), Cascade Complex + Cafesjian Museum
 - Vernissage Market, Matenadaran Manuscript Museum
 - Evening: wine tasting on Saryan Street (Areni, Vayots Dzor wines)
 
-### June 18 (Thu) — Garni + Geghard
+### June 23 (Tue) — Garni + Geghard
 - Garni Temple (1st century AD, only Greco-Roman colonnaded temple in former USSR)
 - Azat Gorge "Symphony of Stones" (natural basalt column formations)
 - Geghard Monastery (UNESCO, partially carved into cliff)
 
-### June 19 (Fri) — Khor Virap + ⚽ TURKEY MATCH 2
+### June 24 (Wed) — Khor Virap
 - Khor Virap Monastery (view of Mt Ararat — border permanently closed, view only)
 - Areni Wine Village (Vayots Dzor, Armenia's top wine region)
-- **⚽ 20:00 (8pm Yerevan) — Turkey vs Paraguay** | Watch in Yerevan 🍺
 
-### June 20 (Sat) — Lake Sevan
+### June 25 (Thu) — Lake Sevan
 - Sevanavank Monastery (9th century) on the peninsula
 - Lake Sevan at 1,900m elevation — one of the world's largest high-altitude lakes
 - Fresh ishkhan (Sevan trout) lunch at lakeside restaurant
+- **⚽ 06:00 (6am Yerevan) — Turkey vs USA** *(10pm ET Jun 25 = 02:00 UTC = 06:00 local)* ⏰ set alarm
 
-### June 21 (Sun) — Yerevan → Tbilisi
-- **🚌 Marshrutka Yerevan → Tbilisi** (~$15–20, departs ~10:00, ~5–6hrs)
+### June 26 (Fri) — Flex / Yerevan at leisure
+- Explore Yerevan brandy distillery (Ararat), Blue Mosque, street food
 
----
+### June 27 (Sat) — ✈️ Fly Yerevan → Batumi
 
-## 🇬🇪 GEORGIA: TBILISI — June 21–25
-
-### June 21 (Sun) — Arrive Tbilisi
-- Old Town evening wander, Sulphur Baths (Abanotubani, ~$20–30/hr private), khinkali dinner
-
-### June 22 (Mon) — Tbilisi City
-- Narikala Fortress (cable car up, walk down), Old Town (Kala), Rustaveli Avenue
-- Georgian National Museum, Fabrika creative hub (evening)
-
-### June 23 (Tue) — Mtskheta Day Trip
-- 20km from Tbilisi (~$1 marshrutka)
-- Svetitskhoveli Cathedral (UNESCO) + Jvari Monastery (6th century, confluence viewpoint)
-
-### June 24 (Wed) — Kakheti Wine Region
-- Sighnaghi walled hilltop city, Bodbe Convent
-- Wine tastings: Kindzmarauli, Rkatsiteli, Saperavi (Georgia = birthplace of wine, 8,000-year tradition)
-
-### June 25 (Thu) — Tbilisi → Kutaisi
-- Afternoon marshrutka Tbilisi → Kutaisi (~3hrs, ~$6–8)
+> **Flight options EVN → BUS (Batumi International)**
+> Check Skyscanner / Google Flights for live availability. Possible dates:
+> - ~~Jun 20~~ — too early (not yet in Yerevan)
+> - **Jun 24** — tight: gives only 3 nights Yerevan (skip Lake Sevan, skip flex day)
+> - **Jun 27** ✅ recommended — full 5-night Yerevan, lands in Batumi with ~2 nights before Rize crossing
+>
+> Airlines to check: Georgian Airways, FlyOne Armenia, Wizz Air, charter routes. No direct flight? Tbilisi connection may be needed (~Tbilisi layover is short, same day possible).
 
 ---
 
-## 🇬🇪 GEORGIA: KUTAISI — June 25–26
+## 🇬🇪 GEORGIA: BATUMI — June 27–29
 
-### June 26 (Fri, 06:00) — ⚽ TURKEY MATCH 3
-- **⚽ 06:00 (6am Kutaisi) — Turkey vs USA** *(10pm ET Jun 25 = 02:00 UTC = 06:00 local)*
-- ⚠️ Early morning — set alarm or watch highlights
+### June 27 (Sat, evening) — Arrive Batumi
+- Old Town evening wander, Batumi Boulevard (6km palm seafront), Ali & Nino moving sculpture
 
-### June 26 (Fri) — Kutaisi
+### June 28 (Sun) — Batumi Day 1
+- Batumi Botanical Garden, Gonio-Apsaros Roman Fortress (~20km south), Black Sea swim
+
+### June 28 or 29 — Optional: Kutaisi Day Trip
+- Marshrutka Batumi → Kutaisi (~2–2.5hrs, ~$5 each way)
 - Bagrati Cathedral (UNESCO, 11th century) + Gelati Monastery (UNESCO, medieval academy)
-- Kutaisi Central Market, Prometheus Cave (spectacular stalactites, boat ride option)
-- Evening marshrutka to Batumi
+- Prometheus Cave (spectacular stalactites, boat ride option)
+- Return to Batumi same evening — long day (~10hrs) but worthwhile if time allows
+- **Worth it?** Yes — both UNESCO sites are unique and can't be seen otherwise in this routing. Skip only if Jun 27 flight arrives late or you need a rest day.
 
----
-
-## 🇬🇪 GEORGIA: BATUMI — June 26–29
-
-### June 26 (Fri, evening) — Arrive Batumi
-- Marshrutka Kutaisi → Batumi (~2–2.5hrs, ~$5)
-
-### June 27 (Sat) — Batumi Day 1
-- Old Town, Batumi Boulevard (6km palm seafront), Ali & Nino moving sculpture, Black Sea swim
-
-### June 28 (Sun) — Batumi Day 2
-- Batumi Botanical Garden, Gonio-Apsaros Roman Fortress (~20km south)
-- Last Georgian wine, prepare for Turkey crossing
+### June 29 (Mon) — Last Georgian evening
+- Last Georgian wine, local food, prepare for Turkey crossing
 
 ---
 
@@ -304,5 +326,5 @@ Bishkek (KG) → [tour] Issyk-Kul + Song-Kul (KG) → Cholpon-Ata (KG)
 | Weekend in Almaty | ✅ June 6–7 in city |
 | Altyn Emel needs 2 days for Aktau Mountains | ✅ June 9–10 |
 | Turkey Match 1 (Jun 13) at good time | ✅ 8pm Baku |
-| Turkey Match 2 (Jun 19) at good time | ✅ 8pm Yerevan |
+| Turkey Match 2 (Jun 19) at good time | ✅ 8pm Tbilisi |
 | Aktau flight legitimate (World Ticket Ltd) | ✅ IATA accredited, founded 2002 |
