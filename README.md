@@ -191,9 +191,27 @@ Baku (AZ) → [fly ~$60] Tbilisi (GE, brief stopover) → [marshrutka] Yerevan (
 - Optional add-on: **Kolsai Lakes** (alpine forest lakes 2hrs further) — only if doing a 2-day combo
 
 ### June 9 (Tue) — Altyn Emel Day 1
-- ~200km east (~3hrs). Jeep/guided tour required (~$80–120pp solo joining group)
+- ~200km east (~3hrs). Jeep/guided tour required.
 - **Singing Dunes** (1.5km × 120m sand mountain that hums in wind) — visit at golden hour, ~17:00–19:00
 - Overnight in **park guesthouse** in Basshi village (~$20–30)
+
+> **💸 Cheap 2-day Altyn Emel group tour options** (commercial operators are $500–700pp for 2 days; budget options below):
+>
+> | Option | ~Price | Notes |
+> |--------|--------|-------|
+> | **Almaty Backpackers Hostel** community tour | **cheapest** | Russian-speaking guide, share costs with hostel residents — call/visit on arrival, ask for next departure |
+> | **Caravanistan** via Asya & Alexey | ~$200–300pp | Long-running, English OK, message via [caravanistan.com](https://caravanistan.com) forum |
+> | **Steppe Spirit** | mid | Local Russian-language operator, advertises on Instagram, will respond in English |
+> | **KazGuidedTours** group rate | ~$300–400pp | Email for actual group price (website lists private only at $700+) |
+> | **GetYourGuide / Viator small-group jeep** | ~$500pp | English-speaking, slick booking, premium for the convenience |
+> | **DIY car rental + share** | ~$150pp / 4ppl | Cheapest if you find 3 others. Standard car OK to Basshi; need 4WD inside park (rent locally) |
+> | **1-day tour only** | $225–250 | Skips Aktau Mountains — half the experience, half the price |
+>
+> **Tactics for solo budget travellers**:
+> - Post on **Caravanistan forum** "Looking for travel partners — Altyn Emel Jun 9–10" 1–2 weeks ahead
+> - Facebook group **"Backpackers in Kazakhstan"** — active, people seeking trip-mates
+> - **Almaty Backpackers Hostel** (and Tree of Life Hostel) noticeboard on arrival
+> - **Park entry fee**: 1,050 KZT (~$2–3) per day, paid separately
 
 ### June 10 (Wed) — Altyn Emel Day 2 + Fly Aktau
 - **Aktau & Katutau Mountains** — striated white/pink/blue chalk badlands, 400 million-year-old Tethys ocean bed (the park's real highlight)
