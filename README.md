@@ -498,3 +498,187 @@ Baku (AZ) → [fly ~$60] Tbilisi (GE, brief stopover) → [marshrutka] Yerevan (
 | Turkey Match 2 (Jun 19) at good time | ✅ 8pm Tbilisi |
 | Turkey Match 3 (Jun 25) — early hours, set alarm | ⏰ 06:00 Yerevan |
 | Aktau flight legitimate (World Ticket Ltd) | ✅ IATA accredited, founded 2002 |
+
+---
+
+## 📋 Pre-Departure Checklist
+
+### Book ASAP (4–8 weeks ahead)
+- [ ] **Kyrgyzstan tour** ($450, weekly Wednesday departures fill up) — book direct
+- [ ] **Almaty → Aktau flight** (£48 deal — book via [Expedia](https://expedia.com), World Ticket Ltd as agent)
+- [ ] **Aktau → Baku flight** (Buta Airways or AZAL — book direct)
+- [ ] **Yerevan → Batumi flight** (Jun 27 — Georgian Airways / FlyOne / Wizz; check by ~April)
+- [ ] **Trabzon → home** flight (TZX → Istanbul connections via Turkish/Pegasus)
+- [ ] **Azerbaijan e-visa** (3 working days — [evisa.gov.az](https://evisa.gov.az), $26)
+- [ ] **Turkey e-visa** if needed (most EU/UK get 90 days free; check [evisa.gov.tr](https://evisa.gov.tr))
+- [ ] **Travel insurance** with adventure activities cover (mountains, motorcycle/quad, hiking) — [WorldNomads](https://worldnomads.com), [SafetyWing](https://safetywing.com)
+
+### Book 1–2 weeks ahead
+- [ ] First 2 nights in Bishkek (jet-lagged arrival)
+- [ ] Almaty hotel for Jun 5–10 (weekend pricing spikes)
+- [ ] Restaurant reservations: **Sherep** (Yerevan), **Shavi Lomi** / **Barbarestan** (Tbilisi), **Daredzhani** (Almaty)
+- [ ] Mangyshlak day tour (Aktau)
+- [ ] Charyn + Altyn Emel tours (Almaty operators)
+
+### Book on arrival / day before
+- [ ] Ganja → Tbilisi marshrutka (call from your guesthouse)
+- [ ] Tbilisi → Yerevan marshrutka (Comfort office, day before)
+- [ ] Sulphur bath private room in Tbilisi
+- [ ] Kakheti wine tour driver
+
+---
+
+## 🎒 Packing for the Climate Range
+
+You'll hit **3°C nights at Song-Kul (3,000m)** AND **35°C+ days in Baku/Ganja**. Layer accordingly.
+
+| Item | Why |
+|------|-----|
+| Down jacket / fleece | Song-Kul yurt, Altyn Arashan, Ala-Archa, alpine evenings |
+| Light long-sleeve sun shirt | Caspian sun is brutal; mosque/monastery cover-up |
+| Quick-dry shorts + zip-off pants | One pair each, multi-purpose |
+| Swim shorts | Issyk-Kul, Caspian, Black Sea, sulphur baths, Ayder thermals |
+| Sturdy hiking shoes | Ala-Archa, Altyn Arashan, Sümela climb |
+| Sandals / flip-flops | Hot Baku evenings, baths, hostel showers |
+| Light scarf (women) | Mosque entry (Baku, Ganja, Trabzon), churches, dust |
+| Sun hat + sunglasses | Steppe sun, Caspian glare |
+| Reusable water bottle (1L) | Pulpulak fountains in Yerevan, tap water in Tbilisi |
+| Power bank (10,000mAh+) | Long marshrutka days, train rides |
+| Universal Type C/F adapter | All 6 countries use the same plugs (no adapter needed if you're already EU; bring one if from US/UK) |
+| Imodium + rehydration salts | Fresh/raw items — kymyz, well water, sus seafood |
+| Cash USD ($300–500 small bills) | Emergency fallback, accepted everywhere |
+| Photocopies of passport/visa | Some hotels keep passport overnight; copy for police checks |
+| Earplugs + eye mask | Overnight train Baku→Ganja, marshrutka snorers, Bishkek dawn calls |
+| Day pack (20–25L) | For day trips while bigger bag stays at hotel |
+
+> **What to leave behind**: Heavy boots (overkill for these hikes), formal clothes, hairdryer (every hotel has one), too many T-shirts (laundry is cheap everywhere — $3–5/load).
+
+---
+
+## 🏠 Where to Sleep — Neighborhoods
+
+| City | Best area | Avoid | Notes |
+|------|-----------|-------|-------|
+| **Bishkek** | Around **Ala-Too Square** / Erkindik | Far suburbs, west of Osh Bazaar at night | Hostels: Apple Hostel, Boutique Bishkek |
+| **Almaty** | **Almaly** district / between Panfilov & Kok-Tobe | Above Al-Farabi (sketchy), far north | Boutique: Rixos, mid: Kazakhstan Hotel |
+| **Aktau** | **Microdistrict 1–2** seafront | Inland microdistricts (no character) | Walk to beach, address format is weird |
+| **Baku** | **İçəri Şəhər (Old City)** or **Nizami Street** | Yasamal far, industrial east | Old City = atmospheric stone alleys |
+| **Ganja** | Around **Heydar Aliyev Park** / center | — | One night only; any central guesthouse |
+| **Tbilisi** | **Sololaki** / **Vera** / Old Town | Gldani, Varketili (suburbs) | Old Town = touristy/loud; Sololaki = elegant |
+| **Yerevan** | **Kentron** (center) — Republic Sq to Cascade | Outer districts — long walk to sights | Cascade-side = cool café area |
+| **Batumi** | **Old Town** / Boulevard | New Boulevard high-rises (charmless) | Boutique guesthouses in Old Town |
+| **Rize** | **City center** near castle | — | One spot only, not many options |
+| **Trabzon** | **Atatürk Alanı** / Çarşı | Far-east industrial | Around the main square |
+
+---
+
+## 🛡️ Safety, Scams, Sensitive Topics
+
+### General
+- Caucasus + Central Asia are **safer than Western Europe** for petty crime in most cities. Tbilisi, Yerevan, Almaty are notably low-crime.
+- **Pickpockets**: only at Osh Bazaar (Bishkek), Green Bazaar (Almaty), Old City crowds (Baku).
+- **Solo traveller**: fine everywhere on this route. Common.
+
+### Scams to avoid
+- **Baku airport taxi**: insists on $30+. Use **Aerexpress 555 bus** (1.30 AZN, 30min to city)
+- **Tbilisi "tea house"**: friendly local invites you for drinks, bill is $200+. **Walk away** from any unsolicited invitation
+- **"Bar girl" scam in Trabzon**: a woman starts drinking with you, bouncers present an inflated bill. Avoid bars with pushy hostesses outside
+- **Marshrutka "no change"**: drivers claim no change for big bills. Carry small notes
+- **Baku Old City carpet shops**: "free tea" turns into hours of pressure. Politely refuse and leave
+- **Yerevan taxi**: insist on **GG Taxi** or **Bolt** — meter taxis don't exist; private drivers always overcharge
+
+### 🚫 Sensitive topics (this matters)
+- **Armenia ↔ Azerbaijan**: Decades of war, tense ceasefire. **Do not mention either country in the other.** Hide Armenian stamps if you have them when entering Azerbaijan (e-visa now means it's tracked digitally — your travel history is visible to AZ border, but no need to volunteer information). Some travellers report being denied entry after Armenian stamps; current policy as of 2024 is more relaxed but unpredictable.
+- **Nagorno-Karabakh / Artsakh**: do not bring up in either country. Painful, current. Locals will tell you their side; just listen.
+- **No photos** of: military installations, police checkpoints, border zones, the underground in Baku metro stations (officially banned).
+- **In Turkey**: avoid Kurdish political topics, the 1915 events, Erdoğan opinions. Just don't.
+- **In Russia/Belarus topics**: most Caucasus countries are politically neutral; Georgians + Armenians are split. Don't lead with your views.
+- **Mosques**: shoes off, women cover hair. Some don't allow non-Muslim entry during prayer (Friday noon especially). Photos usually OK outside prayer times.
+- **Monasteries**: silence in churches, women cover hair (scarves often provided at entrance). Geghard requests no flash. Don't turn your back on the altar walking out.
+- **Drone flights**: heavily restricted everywhere except Turkey (where you need to register). Don't risk.
+
+---
+
+## 🗣️ Useful Phrases (Quick Reference)
+
+| | Hello | Thank you | Please | Sorry | Yes/No |
+|---|---|---|---|---|---|
+| **🇰🇬 Kyrgyz** | Salamatsyzby | Rakhmat | Sураныч | Кечіріңіз | Ооба / Жок |
+| **Russian** (KG/KZ) | Zdravstvuyte | Spasibo | Pozhaluysta | Izvinite | Da / Nyet |
+| **🇰🇿 Kazakh** | Sälemetsiz be | Rahmet | Ötiniş | Keshiriñiz | Iä / Joq |
+| **🇦🇿 Azerbaijani** | Salam | Çox sağ olun | Zəhmət olmasa | Bağışlayın | Bəli / Xeyr |
+| **🇬🇪 Georgian** | Gamarjoba | Madloba | Tu sheidzleba | Bodishi | Ki / Ara |
+| **🇦🇲 Armenian** | Barev / Barev dzez | Shnorhakaloutyoun | Khndroum em | Knereq | Ayo / Voch |
+| **🇹🇷 Turkish** | Merhaba | Teşekkürler | Lütfen | Affedersiniz | Evet / Hayır |
+
+> **Universal hack**: "**Cheers**" = "**To your health**" everywhere. KG: *Saulukka*. KZ: *Densaulykka*. AZ: *Sağlığa*. GE: **Gaumarjos** (very important word). AM: *Genatsd*. TR: *Şerefe*. Learn Gaumarjos before Tbilisi — Georgians toast for everything, you'll need it.
+
+---
+
+## 💎 Hidden Gems (Beyond the Greatest Hits)
+
+- **Bishkek**: **Ata-Beyit Memorial** (Soviet purge mass grave, 30km out — somber but historic), **Manas Ordo** mountain valley
+- **Almaty**: **Arasan Baths** (Soviet-era public banya, ~$10, locals only), **Almaty I (one) train station** building (architectural gem)
+- **Aktau**: **Light at end of microdistrict 4** (the city's only "address" — pure absurdism)
+- **Baku**: **Carpet Museum** (the building itself is a giant rolled carpet), **Mini Venice** on the Boulevard, **Funicular up to Şəhidlər Xiyabanı** (cheap, panoramic)
+- **Ganja**: **Imamzadeh complex** (5km out, blue-tiled mausoleum)
+- **Tbilisi**: **Mtatsminda Funicular** to top of Holy Mountain (rides + Stalin-era park + amazing views), **Tunnel Bookstore** in Auchan, **Pantheon of Writers** at the funicular top
+- **Yerevan**: **Erebuni Fortress** (Iron Age — actually the city's founding, 782 BCE), **GUM market** (Soviet-era market hall, fruit + dried apricots)
+- **Mtskheta**: **Shio-Mgvime Monastery** (6th c., cliff cave hermitage, 8km from town — quieter than Jvari)
+- **Batumi**: **Piazza Square** (Italianate, photogenic at night), **Argo Cable Car** sunset
+- **Kutaisi**: **Motsameta Monastery** (cliff-top, 5km from Gelati — easy add-on)
+- **Trabzon**: **Bedesten Çarşı** (Ottoman covered market), **Kaymaklı Manastırı** (Armenian monastery ruins)
+
+---
+
+## 📸 Photo Spots Worth Knowing
+
+| Where | Best time |
+|-------|-----------|
+| Song-Kul yurts at sunrise | 05:30 — first light on the lake |
+| Charyn Canyon "Valley of Castles" | Late afternoon, golden hour |
+| Singing Dunes (Altyn Emel) | Sunset, ~19:00 |
+| Aktau Mountains stripes | Midday for color saturation |
+| Caspian sunset from Aktau seafront | ~20:30 |
+| Flame Towers + Old City Baku | Blue hour, ~21:00 (towers light up) |
+| Heydar Aliyev Centre | Night — fully lit white curves |
+| Jvari Monastery confluence view | Morning, before haze |
+| Narikala Fortress at night | Old Town glow + Mother of Georgia statue |
+| Sighnaghi panorama | Sunset over Alazani Valley |
+| Khor Virap with Mt Ararat | Early morning (clearest) |
+| Tatev Monastery | (long detour but stunning if added) |
+| Sevanavank peninsula | Late afternoon |
+| Sümela Monastery cliff | Morning before tour buses |
+| Uzungöl reflections | Early morning, no wind |
+
+---
+
+## 🩺 Health, Money, Emergencies
+
+- **Altitude**: Song-Kul (3,016m), Sevan (1,900m), Ayder (1,400m). Mild — drink water, no diamox needed for healthy adults.
+- **Vaccinations**: routine (Hep A, Tetanus, Typhoid for rural Central Asia). No yellow fever needed.
+- **Travel insurance must include**: medical evacuation (mountain areas remote), motorcycle/quad-bike (if doing any), $50k+ medical limit.
+- **Pharmacies**: dirt cheap and well-stocked across all 6 countries. No prescription often needed for basics (antibiotics, painkillers).
+- **Emergency numbers**: 112 (universal in Caucasus + Turkey), 102/103 (Central Asia).
+- **Embassies**: bookmark UK/US/EU embassy address for each country. STEP (US) / FCDO (UK) registration if you're cautious.
+- **ATM tips**:
+  - 🇰🇬 Optima Bank, Demir Kyrgyz International — usually fee-free
+  - 🇰🇿 Halyk, Kaspi — fee-free with Visa/MC
+  - 🇦🇿 Kapital Bank, ABB — small fees (~1 AZN)
+  - 🇬🇪 **TBC Bank, Bank of Georgia** — almost always fee-free, dispense GEL or USD
+  - 🇦🇲 Ardshinbank, Ameriabank — ~$1–2 fees
+  - 🇹🇷 Ziraat, Garanti — small fees; **never** use airport ATMs (terrible rates)
+- **Cards**: bring at least 2 cards, different networks (Visa + Mastercard). Notify your bank of travel route, or use **Wise/Revolut** which don't need notifications.
+
+---
+
+## 📅 Recurring Events That Might Coincide
+
+- **Ramadan 2026**: Feb 17 – Mar 18 (well before your trip ✅)
+- **Eid al-Fitr**: ~Mar 19, 2026 ✅ over
+- **Eid al-Adha**: ~May 26–28, 2026 ⚠️ overlaps your Bishkek arrival — banks/some shops close, but tourism unaffected. Mosques busy.
+- **Karakol Sunday Market**: every Sunday — your tour Day 5 is May 31 ✅
+- **Tbilisoba** (Tbilisi city festival): October — won't coincide
+- **Yerevan Wine Days**: usually first weekend of June — ⚠️ might just miss it (you arrive Jun 21). Check 2026 dates
+- **Trabzon Hamsi Festival**: late November — won't coincide
+- **Independence Days**: KG Aug 31, KZ Dec 16, AZ May 28 ⚠️ (overlaps Bishkek arrival), GE May 26 ⚠️ (your Bishkek arrival day; Tbilisi independence parade), AM Sep 21, TR Oct 29
