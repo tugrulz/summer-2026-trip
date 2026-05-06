@@ -1,6 +1,6 @@
 # 🌍 Summer 2026 Trip: Central Asia → Caucasus → Turkey
 
-**Bishkek → Almaty → Aktau → Baku → Yerevan → Tbilisi → Kutaisi → Batumi → Rize → Trabzon**
+**Bishkek → Almaty → Aktau → Baku → Ganja → Tbilisi → Yerevan → Batumi → Rize → Trabzon**
 
 *May 26 – ~July 4, 2026 | ~40 days | Solo budget travel*
 
@@ -11,9 +11,9 @@
 ```
 Bishkek (KG) → [tour] Issyk-Kul + Song-Kul (KG) → Cholpon-Ata (KG)
 → [bus $7] Almaty (KZ) → [overnight] Altyn Emel (KZ) → [day trip] Charyn Canyon (KZ)
-→ [fly £48] Aktau (KZ) → [fly] Baku (AZ) → [train] Ganja (AZ)
-→ [land border] Tbilisi (GE) → [marshrutka $15] Yerevan (AM)
-→ [fly ~$80] Batumi (GE) → [day trip] Kutaisi (GE) → [land border] Rize (TR) → Trabzon (TR)
+→ [fly £48] Aktau (KZ) → [fly] Baku (AZ) → [overnight train] Ganja (AZ)
+→ [marshrutka, Red Bridge border] Tbilisi (GE) → [marshrutka] Yerevan (AM)
+→ [fly ~$80] Batumi (GE) → [day trip] Kutaisi (GE) → [Sarpi border] Rize (TR) → Trabzon (TR)
 ```
 
 ### 🔀 Alternative Route (skip Ganja)
@@ -21,7 +21,7 @@ Bishkek (KG) → [tour] Issyk-Kul + Song-Kul (KG) → Cholpon-Ata (KG)
 Baku (AZ) → [fly ~$60] Tbilisi (GE, brief stopover) → [marshrutka] Yerevan (AM)
 → [marshrutka] Tbilisi (GE) → Kutaisi (GE) → Batumi (GE) → Rize (TR) → Trabzon (TR)
 ```
-*Trade-off: saves ~1 day, misses Ganja + Lake Goygol, requires backtracking through Tbilisi twice (Tbilisi stopover outbound + return for Georgia leg). Main route below is preferred.*
+*Trade-off: saves ~1 day, misses Ganja + Lake Goygol, requires backtracking through Tbilisi twice. Main route below is preferred.*
 
 ---
 
@@ -41,96 +41,125 @@ Baku (AZ) → [fly ~$60] Tbilisi (GE, brief stopover) → [marshrutka] Yerevan (
 | Section | Nights | Est. Cost |
 |---------|--------|-----------|
 | 🇰🇬 Kyrgyzstan (incl. $450 tour) | 10 | ~$780 |
-| 🇰🇿 Almaty | 6 | ~$380 |
+| 🇰🇿 Almaty + Altyn Emel | 6 | ~$420 |
 | 🇰🇿 Aktau | 2 | ~$160 |
-| ✈️ Almaty → Aktau (World Ticket Ltd/Expedia) | — | £48 (~$60) |
+| ✈️ Almaty → Aktau | — | £48 (~$60) |
 | ✈️ Aktau → Baku | — | ~$80 |
 | 🇦🇿 Baku + Ganja | 5 | ~$240 |
-| 🇦🇲 Armenia | 6 | ~$330 |
-| 🇬🇪 Georgia (Tbilisi + Batumi + Kutaisi day trip) | 6 | ~$260 |
+| 🇬🇪 Tbilisi | 4 | ~$200 |
+| 🇦🇲 Yerevan | 6 | ~$330 |
 | ✈️ Yerevan → Batumi | — | ~$80–120 |
-| 🇹🇷 Turkey (Rize + Trabzon) | 5 | ~$260 |
-| **TOTAL (excl. flight home)** | **~40** | **~$2,520–2,700** |
+| 🇬🇪 Batumi (+ Kutaisi day trip) | 3 | ~$170 |
+| 🇹🇷 Turkey (Rize + Trabzon) | 5 | ~$280 |
+| **TOTAL (excl. flight home)** | **~40** | **~$2,750–2,900** |
 
 ---
 
 ## ⚠️ Key Logistics
 
-- 🚫 **Azerbaijan → Georgia**: Land border (Red Bridge) **open** — direct marshrutka Ganja → Tbilisi is the route. Saves ~$120 vs flying.
-- 🚫 **Azerbaijan → Armenia**: No direct flights, no diplomatic relations. Route: Baku → Ganja → Tbilisi → Yerevan (marshrutka). Return route: Yerevan → fly Batumi (check Jun 27 EVN→BUS).
-- 🚫 **Armenia → Turkey**: Border permanently **closed** since 1993. Cannot cross. Exit via Yerevan → Batumi.
+- 🚫 **Azerbaijan → Georgia**: Land border (Red Bridge) **open** — direct marshrutka Ganja → Tbilisi. Saves ~$120 vs flying.
+- 🚫 **Azerbaijan → Armenia**: No direct flights, no diplomatic relations. Route: Baku → Ganja → Tbilisi → Yerevan. Return: fly Yerevan → Batumi.
+- 🚫 **Armenia → Turkey**: Border permanently **closed** since 1993. Cannot cross.
 - 🌧️ **Rize weather**: Must arrive before September (Sept avg 253mm rain). Arrive ~June 30 ✅
-- 🗺️ **Turkey coast order from Georgia**: Sarpi border → Hopa → **Rize** → Trabzon (west). Rize first, then Trabzon. No backtracking.
+- 🗺️ **Turkey coast**: Sarpi → Hopa → Rize → Trabzon (heading west, no backtracking).
+
+---
+
+## 🌐 Country Logistics
+
+| | 🇰🇬 KG | 🇰🇿 KZ | 🇦🇿 AZ | 🇬🇪 GE | 🇦🇲 AM | 🇹🇷 TR |
+|---|---|---|---|---|---|---|
+| **Visa (UK/EU/US)** | Visa-free 60d | Visa-free 30d | **e-visa $26** [evisa.gov.az](https://evisa.gov.az) | Visa-free 365d | Visa-free 180d | **e-visa ~$50** [evisa.gov.tr](https://evisa.gov.tr) |
+| **Currency** | Som (KGS) | Tenge (KZT) | Manat (AZN) | Lari (GEL) | Dram (AMD) | Lira (TRY) |
+| **Cards accepted?** | Cash mainly | Widely (Almaty) | Widely (Baku) | Widely | Mostly cash | Universal |
+| **Best SIM** | Beeline / MegaCom | Kcell / Tele2 | Bakcell / Azercell | Magti / Geocell | Beeline / Viva-MTS | Turkcell |
+| **Taxi app** | Yandex Go | Yandex Go | Bolt | **Bolt** (Yandex banned) | Bolt / GG Taxi | BiTaksi / Uber |
+| **Lingua franca** | Russian | Russian | Azerbaijani / Russian | Georgian (English in Tbilisi) | Armenian / Russian | Turkish (limited English) |
+| **Tap water** | No | Almaty yes | No (Baku ok-ish) | **Yes (excellent)** | Yes (mountain spring) | Cities yes, east patchy |
+| **Tipping** | Round up | 10% | 10% | 10% included often | 10% | 10% |
+| **Power plug** | C/F | C/F | C/F | C/F | C/F | C/F |
+
+> **Apps to download before you fly**: Maps.me (offline maps), 2GIS (Central Asia, very good), Bolt, Wise/Revolut (cheap currency), Google Translate offline packs (KG/KZ/AZ/GE/AM/TR), Skyscanner, Booking.com.
+
+> **Cash strategy**: Withdraw locally at ATMs (most accept Visa/Mastercard, watch for "no fee" ATMs — Bank of Georgia/TBC in GE, Halyk in KZ, Kapital Bank in AZ). Keep $300–500 USD in small bills as backup — accepted everywhere as emergency currency.
+
+> **Turkey SIM warning**: Foreign-IMEI phones get blocked after ~120 days unless you register the phone (~₺7,000 fee). Fine for a 1-week visit — just buy a tourist SIM.
 
 ---
 
 ## 🛣️ Border Crossings & Transit Notes
 
+### Bishkek → Almaty (Korday border)
+- Last bus 18:00 from Bishkek New Bus Station, Platform 11. ~5–6hrs incl. border. 600 som (~$7).
+- Border is open 24/7. Most nationalities visa-free both sides — easy crossing.
+
+### Aktau → Baku (Caspian flight)
+- Buta Airways or Azerbaijan Airlines, ~$80, 1.5hrs.
+- Ferry option exists (Caspian crossing 24–60hrs) but unreliable for a fixed schedule. Skip.
+
 ### Ganja → Tbilisi (Red Bridge / Qırmızı Körpü)
-- **Best option**: Direct marshrutka Ganja bus station → Tbilisi Ortachala, departs **09:00**, ~4hrs, ~8 AZN (~$5)
-- Drivers Elçin and Rasul alternate daily — **not bookable online**, ask your guesthouse to arrange or go to the bus station the day before. No major platform lists this service.
-  - [Wikivoyage – Ganja](https://en.wikivoyage.org/wiki/Ganja) | [TripAdvisor thread](https://www.tripadvisor.com/ShowTopic-g293933-i9346-k14740685-Ganja_to_Tbilisi-Azerbaijan.html) | [Rome2rio](https://www.rome2rio.com/s/Ganja/Tbilisi)
-- **Backup DIY**: marshrutka Ganja → Qazakh (~4 AZN, 2hrs) → marshrutka to Red Bridge (~1 AZN) → walk border → marshrutka Georgia side → Tbilisi (~5 GEL). More faff, ~$15 total.
-- ⚠️ **Border gotcha**: Red Bridge is 24/7 but reported as **one-way only (AZ→GE)**. Fine for your direction; do not plan to return this way.
+- **Direct marshrutka** Ganja bus station → Tbilisi Ortachala, departs **09:00**, ~4hrs, ~8 AZN (~$5).
+- Drivers Elçin and Rasul alternate daily — **not bookable online**. Ask your guesthouse to call ahead or visit Ganja bus station the day before.
+  - [Wikivoyage – Ganja](https://en.wikivoyage.org/wiki/Ganja) | [TripAdvisor thread](https://www.tripadvisor.com/ShowTopic-g293933-i9346-k14740685-Ganja_to_Tbilisi-Azerbaijan.html)
+- ⚠️ **Border gotcha**: Red Bridge is 24/7 but reported as **one-way only (AZ→GE)**. Fine for your direction.
+- **Backup DIY**: Ganja → Qazakh marshrutka (~4 AZN) → Red Bridge marshrutka (~1 AZN) → walk → marshrutka to Tbilisi (~5 GEL). Total ~$15, more faff.
 
-### Tbilisi → Yerevan (Sadakhlo / Bagratashen border)
-- **Best option for scenery**: Daytime **marshrutka** ($20–25, ~6hrs). Departs Station Square or Ortachala. **Buy ticket at Comfort office** across from pickup — no payment on board (changed 2023). Arrives Kilikia station, Yerevan.
-  - [Frugal Travellers guide](https://frugaltravellers.com/tbilisi-to-yerevan-by-marshrutka/) | [Absolute Armenia guide](https://absolutearmenia.com/tbilisi-to-yerevan-bus/)
-- **Overnight train**: Still running (South Caucasus Railway, $35–60). Jun 21 (Sun = odd day) departs **22:45**, arrives Yerevan **09:20** Jun 22. Comfortable but **misses all scenery** — Debed Canyon is traversed at midnight.
+### Tbilisi → Yerevan (Sadakhlo / Bagratashen)
+- **Daytime marshrutka** ($20–25, ~6hrs). Departs Station Square (Sadguris Moedani) or Ortachala. **Buy ticket at Comfort office** across from pickup — no payment on board (changed 2023). Arrives Kilikia station, Yerevan.
+  - [Frugal Travellers guide](https://frugaltravellers.com/tbilisi-to-yerevan-by-marshrutka/) | [Absolute Armenia](https://absolutearmenia.com/tbilisi-to-yerevan-bus/)
+- **Overnight train** ($35–60, 10.5hrs). South Caucasus Railway. Jun 21 (Sun, odd date) departs **22:45**, arrives Yerevan **09:20** Jun 22.
   - [Wander-lush train guide](https://wander-lush.org/train-from-tbilisi-to-yerevan/)
-- 🏔️ **Scenery verdict**: Marshrutka wins clearly. The road passes through the dramatic **Debed Canyon / Alaverdi gorge** (350m cliffs, forested slopes, ancient monasteries on the rim) — ask driver if going via M6/Alaverdi route or M16/Dilijan/Lake Sevan route, both have excellent scenery. The train covers this same canyon section at night and you see nothing.
-- ⚠️ **Border gotcha**: Border control changed Jan 2025 — Russian guards gone, Armenian Border Guard now fully in charge. Bagratashen/Sadakhlo crossing is generally fastest (15–45 min). Visa-free for most Western nationalities.
+- 🏔️ **Scenery verdict**: Marshrutka wins. Road passes through dramatic **Debed Canyon** (350m cliffs, forested gorge, Haghpat & Sanahin monasteries on the rim). Train covers same canyon at midnight — see nothing.
+- ⚠️ **Border gotcha**: Border control changed Jan 2025 — Russian guards gone, Armenian Border Guard now in charge. Bagratashen crossing 15–45 min typical.
 
-### Batumi → Rize (Sarpi / Sarp border)
-- **DIY local (recommended)**: Bus 16 Batumi → Sarpi (45min, ~0.40 GEL) → **walk across on foot** → dolmuş Hopa → Rize (~45min). Total ~$3–5.
-  - [Frugal Travellers – Sarpi crossing](https://frugaltravellers.com/sarpi-border-crossing-georgia-to-turkey/)
-- **Direct bus**: Metro Turizm / Citybus Georgia from Batumi bus station ($10–14). You still exit and cross on foot — just reboard a Turkish bus on the other side.
-- ⚠️ **Border gotcha**: Sarpi is 24/7 open but **peak 07:00–08:00 has 1–3hr queues** (mainly trucks and cars). Cross mid-morning on foot to skip most of the wait. Luggage scanned on both sides.
-- 🛑 **Hopa stopover**: Hopa itself is a transit town — pebble beach, bazaar, Black Sea tea culture, Laz/Georgian cultural mix. Fine for a tea stop and to buy local honey/hazelnuts, but not worth an overnight. The real draw is **Fırtına Valley** (~1.5hrs southwest of Hopa toward Rize) — medieval stone bridges, dense Black Sea rainforest, Ayder Plateau hot springs. Already in the Rize itinerary.
+### Batumi → Rize (Sarpi / Sarp)
+- **DIY local (recommended)**: City bus 16 Batumi → Sarpi (45min, ~0.40 GEL) → walk across on foot → dolmuş Hopa → Rize (~1hr). Total ~$3–5.
+- **Direct bus**: Metro Turizm / Citybus Georgia from Batumi bus station ($10–14). Still cross on foot, reboard Turkish bus other side.
+- ⚠️ **Border gotcha**: Sarpi 24/7 but **peak 07:00–08:00 has 1–3hr queues**. Cross mid-morning on foot to skip most of it. Luggage scanned both sides.
+- 🛑 **Hopa**: Transit town. Pebble beach, bazaar, Black Sea tea culture. Worth a tea/lunch stop, not an overnight. Buy local hazelnuts/honey if you have time.
 
 ---
 
 ## 🇰🇬 KYRGYZSTAN — May 26 → June 4
 
-### May 26 (Tue) — Arrive Bishkek
-- Very early morning arrival → rest
-- Afternoon: Osh Bazaar, Erkindik Boulevard, city center walk
+> **Why**: Soviet-era nomadic alpine culture, jaw-dropping mountain lakes (90% of country is above 1,500m), affordable adventure travel. Bishkek is the gateway.
 
----
+### May 26 (Tue) — Arrive Bishkek
+- Very early morning arrival → rest at hotel
+- Afternoon: **Osh Bazaar** (largest in Central Asia, sample dried fruit, kymyz fermented mare's milk if you dare), Erkindik Boulevard, Ala-Too Square
+- 🍽️ **Food to try**: *laghman* (hand-pulled noodle soup), *manty* (steamed dumplings), *plov* (rice dish), *kuurdak* (fried meat with potatoes)
+- 🍴 **Restaurants**: Faiza (Russian-Korean comfort food, multiple branches), Navat (chain, well-priced traditional Kyrgyz), Frunze (modern Kyrgyz tasting menu)
 
 ### May 27–31 (Wed–Sun) — Issyk-Kul & Song-Kul Group Tour
 **[Kyrgyzstan Tourism Weekly Tour](https://kyrgyzstan-tourism.com/group-tours/trip-to-song-kul-karakol-every-week/) | $450 | Every Wednesday**
 
 | Day | Date | Highlights |
 |-----|------|-----------|
-| Day 1 | May 27 (Wed) | Depart Bishkek → south shore Issyk-Kul → Karakol overnight |
-| Day 2 | May 28 (Thu) | Jeti-Oguz Gorge + Fairy Tale Canyon (Skazka) |
-| Day 3 | May 29 (Fri) | Altyn Arashan Gorge trek + hot springs |
-| Day 4 | May 30 (Sat) | Song-Kul alpine lake (~3,000m) + nomad camp + eagle hunting |
-| Day 5 | May 31 (Sun) | Karakol Sunday Animal Market → drive back west via north shore |
+| 1 | May 27 (Wed) | Bishkek → south shore Issyk-Kul → Karakol overnight |
+| 2 | May 28 (Thu) | Jeti-Oguz Gorge ("Seven Bulls" red sandstone) + Fairy Tale Canyon (Skazka) |
+| 3 | May 29 (Fri) | Altyn Arashan Gorge trek + hot springs |
+| 4 | May 30 (Sat) | **Song-Kul** alpine lake (3,016m) + nomad yurt camp + eagle hunting demo |
+| 5 | May 31 (Sun) | **Karakol Sunday Animal Market** (livestock auction, the real deal — go before 09:00) → drive back via north shore |
 
-> **May 31 — Cholpon-Ata Stopover**: Ask tour to drop you at Cholpon-Ata. Do the **Bronze Age Petroglyphs with the tour group** before they continue to Bishkek. Overnight in Cholpon-Ata (~$10–15). Completes a full Issyk-Kul loop (south shore via tour, north shore on return).
-
----
+> **May 31 — Cholpon-Ata stopover**: Ask tour to drop you off. Visit **Bronze Age Petroglyph open-air museum** (1,500+ stones, 800 BCE) before tour continues to Bishkek. Overnight Cholpon-Ata (~$10–15).
 
 ### June 1 (Mon) — Cholpon-Ata → Bishkek
-- Bus Cholpon-Ata → Bishkek (~3–3.5hrs, ~$3–4)
-
----
+- Bus Cholpon-Ata → Bishkek (~3.5hrs, ~$3–4)
+- Afternoon: rest, evening at **Sierra Coffee** or **Cyclone craft beer**
 
 ### June 2 (Tue) — Bishkek Day 1
-- Osh Bazaar, State History Museum, Victory Square, Dubovy Park
+- **State History Museum** (Soviet legacy, eagle hunting exhibits), Victory Square, Dubovy Park (sculpture garden)
+- 🏛️ **Concept**: Bishkek = open-air Soviet architecture textbook. Look for the giant Lenin statue behind the museum (now turned to face away from Ala-Too)
+- 🍴 **Dinner**: **Supara Ethno Complex** (yurt-restaurant, traditional cuisine + folklore performance) or **Tubeteika** (modern Kyrgyz)
 
----
-
-### June 3 (Wed) — Bishkek Day 2: Ala-Archa National Park
-- 40km south, shared taxi (~$5 each way)
-- Ak-Sai Glacier trail (6–7hrs) or valley floor hike (3–4hrs)
-
----
+### June 3 (Wed) — Ala-Archa National Park
+- 40km south, shared taxi (~$5 each way) — leave 07:00 to beat heat
+- **Ak-Sai Glacier** trail (6–7hrs, demanding) or valley floor hike (3–4hrs, easy)
+- Evening: **Sky Bar** at Bishkek Park rooftop for views
 
 ### June 4 (Thu) — Bishkek Day 3 + Depart
-- Morning: Dordoi Bazaar, Kyrgyz National Museum of Fine Arts
+- Morning: **Dordoi Bazaar** (massive container market, world's largest by some measures) or **Kyrgyz National Museum of Fine Arts**
+- Lunch: **Ushtobe** (Korean Kyrgyz fusion) or **Boorsok Cafe** (cheap traditional)
 - **⏰ 18:00 — Last bus Bishkek → Almaty** (New Bus Station, Platform 11, 600 som ~$7, ~5–6hrs incl. Korday border)
 - Arrive Almaty ~23:00
 
@@ -138,205 +167,319 @@ Baku (AZ) → [fly ~$60] Tbilisi (GE, brief stopover) → [marshrutka] Yerevan (
 
 ## 🇰🇿 KAZAKHSTAN: ALMATY — June 5 → June 10
 
+> **Why**: Tree-lined Soviet planned city at 700m beneath the Tian Shan mountains, surprisingly hip café scene, gateway to wild landscapes.
+
 ### June 5 (Fri) — Almaty City Day
-- Green Bazaar, Panfilov Park, Zenkov Cathedral, Central State Museum, Kok-Tobe cable car
+- **Green Bazaar** (Zelyony, fruit/veg/horse meat counters), **Panfilov Park** + **Zenkov Cathedral** (one of world's tallest wooden buildings, no nails), **Central State Museum**
+- **Kok-Tobe** cable car for sunset views
+- 🍽️ **Food**: *beshbarmak* (national dish, boiled meat over flat noodles), *baursak* (fried dough), *kazy* (horse sausage), *shubat* (camel milk)
+- 🍴 **Dinner**: **Daredzhani** (Georgian, the city favourite — book ahead), **Kishlak** (Uzbek, central Asia greatest hits), **AB Restaurant** (modern Kazakh tasting menu, splurge)
 
-### June 6 (Sat) — Weekend Day 1 in Almaty
-- Gorky Park (shashlik, families, buzz), Arbat pedestrian street, Zhibek Zholy, craft beer bars
+### June 6 (Sat) — Almaty Weekend
+- **Gorky Park** (shashlik smoke + Saturday families), **Arbat / Zhibek Zholy** pedestrian street
+- Coffee scene: **Coffeedelia**, **Bookstore Coffee**, **Daily Coffee** (Almaty has a real third-wave culture)
+- Evening: craft beer at **Bochonok** or live jazz at **Shakespeare Pub**
 
-### June 7 (Sun) — Weekend Day 2 in Almaty
-- Green Bazaar (best on weekends), city wander
-- Optional: Tamgaly Petroglyphs day trip (UNESCO, 170km west, 1 day)
+### June 7 (Sun) — Day Trip Choice
+- **Option A**: **Big Almaty Lake** (turquoise alpine reservoir, 2,510m, taxi day trip ~$40 — military base nearby, do NOT stray off road)
+- **Option B**: **Medeu** (highest skating rink in the world) + **Shymbulak** ski resort cable car (summer hiking)
+- **Option C**: **Tamgaly Petroglyphs** (UNESCO, 170km west) if interested in Bronze Age rock art
 
 ### June 8 (Mon) — Charyn Canyon
-- ~196km east (~2.5hrs), rent car or join day tour (~$25–35pp)
-- "Valley of Castles" — dramatic orange canyon formations carved by Charyn River
+- ~196km east (~2.5hrs). Day tour ~$25–35pp (group), private car ~$80
+- **Valley of Castles** (12km canyon walk, dramatic orange sandstone formations) + Charyn River
+- Optional add-on: **Kolsai Lakes** (alpine forest lakes 2hrs further) — only if doing a 2-day combo
 
 ### June 9 (Tue) — Altyn Emel Day 1
-- ~200km east, jeep/guided tour required (~$80–120pp, join group)
-- Singing Dunes (crescent dune that "hums" in the wind) — visit at golden hour
-- Overnight in park guesthouse
+- ~200km east (~3hrs). Jeep/guided tour required (~$80–120pp solo joining group)
+- **Singing Dunes** (1.5km × 120m sand mountain that hums in wind) — visit at golden hour, ~17:00–19:00
+- Overnight in **park guesthouse** in Basshi village (~$20–30)
 
 ### June 10 (Wed) — Altyn Emel Day 2 + Fly Aktau
-- Aktau & Katutau Mountains (white/coloured striated badlands — the park highlight)
-- Return to Almaty by ~12:30 → pack → airport
-- **⏰ 19:30 🛫 Fly Almaty → Aktau** | World Ticket Ltd via Expedia — **£47.90** (FlyArystan operated)
+- **Aktau & Katutau Mountains** — striated white/pink/blue chalk badlands, 400 million-year-old Tethys ocean bed (the park's real highlight)
+- Return Almaty ~14:00–15:00 → airport
+- **⏰ 19:30 🛫 Almaty → Aktau** | World Ticket Ltd via Expedia — **£47.90** (FlyArystan operated)
 - Arrive Aktau ~21:30
 
-> **Why Aktau?**: Direct Almaty→Baku flies at 2am. Aktau adds Mangyshlak Peninsula (Valley of Balls, underground mosque) AND gives civilised flight times. Total extra cost ~$60.
+> **🟡 Altyn Emel timing — pick one option**:
+> - **A: Keep 2 days as planned** ✅ recommended — leave park 12:30, drive to Almaty (2.5hrs), pack and head to airport. Tight but workable. Have bag pre-packed at Almaty hotel left luggage.
+> - **B: 1 day only** — see Singing Dunes at golden hour Day 1, miss Aktau Mountains. Frees a day for Big Almaty Lake/Kolsai. Loses the park's geological highlight.
+> - **C: 2 days but fly next morning** — overnight Almaty after park, fly Aktau on Jun 11. Adds night in Almaty, but Aktau then becomes a single half-day before flight — tight on Mangyshlak side instead.
+
+> **Why Aktau?**: Direct Almaty → Baku flies at 02:00. Aktau adds the unique **Mangyshlak Peninsula** AND gives civilised flight times.
 
 ---
 
 ## 🇰🇿 KAZAKHSTAN: AKTAU — June 10–12
 
-### June 10 (Wed, evening) — Arrive Aktau
-- Check in near Caspian seafront, evening walk
+> **Why**: Soviet planned city on the Caspian Sea (no street names — addresses are "Microdistrict 4, Building 12, Apt 5"), gateway to one of the world's most surreal desert landscapes.
 
-### June 11 (Thu) — Aktau City + Mangyshlak Day Tour
-- **06:00–09:00**: Early city walk — Caspian beach, Soviet microrayon layout (no street names, numbered blocks), morning fish market
-- **09:00**: Group tour → [Torysh Valley of Balls](https://www.advantour.com/kazakhstan/tours/torysh-shakpak-ata-one-day-tour.htm) + Shakpak-Ata Underground Mosque (~$60–90pp, contact [kazguidedtours.com](https://kazguidedtours.com/tours/mangystau-tours))
-  - **Torysh**: Hundreds of perfectly spherical limestone concretions scattered across desert, up to 4m diameter
-  - **Shakpak-Ata**: Pre-Islamic underground mosque carved into limestone cliff (4th–7th century), Arabic calligraphy + ancient petroglyphs
+### June 10 (Wed, evening) — Arrive Aktau
+- Check in near Caspian seafront, walk along the seafront promenade
+- Sunset over the Caspian — first time you'll see this body of water
+
+### June 11 (Thu) — Mangyshlak Day Tour
+- **06:00–09:00**: Caspian beach walk, fish market, microdistrict orientation (numbered blocks instead of streets — Soviet sci-fi vibe)
+- **09:00**: Group tour [Torysh Valley of Balls + Shakpak-Ata](https://www.advantour.com/kazakhstan/tours/torysh-shakpak-ata-one-day-tour.htm) (~$60–90pp). Contact [kazguidedtours.com](https://kazguidedtours.com/tours/mangystau-tours)
+  - **Torysh**: hundreds of perfect limestone spheres scattered across desert, up to 4m diameter — geological mystery, possibly 180 million years old
+  - **Shakpak-Ata**: pre-Islamic underground mosque carved into limestone cliff (4th–7th century AD), Arabic calligraphy + petroglyphs
 - Return ~18:00–19:00
-- Evening: Caspian seafood dinner (fresh bream, carp, sturgeon)
+- 🍽️ **Dinner**: **Caspian seafood** — fresh bream, carp, sturgeon. Try **Stareishina** or **Guns & Roses** (yes, that's the name — well-regarded Caspian seafood place)
 
 ### June 12 (Fri) — Fly Baku
-- **⏰ 15:05 🛫 Fly Aktau → Baku** (~2.5hrs → arrive Baku ~16:35 local)
+- Morning: Caspian swim, light packing
+- **⏰ 15:05 🛫 Aktau → Baku** (~2.5hrs → arrive Baku ~16:35 local)
 
 ---
 
 ## 🇦🇿 AZERBAIJAN: BAKU — June 12–15
 
-### June 12 (Fri) — Arrive Baku
-- Arrive ~17:00, check in Old City area, evening Baku Boulevard stroll
+> **Why**: Where Soviet brutalism meets oil-money megaprojects meets Persian Old City. Three architectural epochs in 5km. Caspian coast + UNESCO petroglyphs + actual fire from the ground.
 
-### June 13 (Sat) — Baku City + ⚽ TURKEY MATCH 1
-- Old City (İçəri Şəhər): Maiden Tower, Palace of the Shirvanshahs (both UNESCO)
-- Flame Towers viewpoint, Nizami Street
-- **⚽ 20:00 (8pm Baku) — Australia vs Turkey** | Watch in a Baku sports bar 🍺
+### June 12 (Fri) — Arrive Baku
+- Arrive ~17:00, check in **Old City** area (İçəri Şəhər) — atmospheric, central, walkable
+- Evening: **Baku Boulevard** (3km Caspian seafront promenade) → tea at a chaikhana
+- 🍴 **First dinner**: **Sumakh** (refined traditional Azerbaijani, central) or **Firuza** (atmospheric, near Old City)
+
+### June 13 (Sat) — Old City + ⚽ TURKEY MATCH 1
+- **Old City (UNESCO)**: Maiden Tower (12th century, mysterious purpose), Palace of the Shirvanshahs, ancient hammam ruins
+- **Nizami Street** pedestrian zone, **Fountains Square**
+- 🍽️ **Lunch**: *qutab* (thin stuffed flatbread) at **Qutab Evi**, *plov* with *kazmag* (rice crust)
+- **Flame Towers** viewpoint (Şəhidlər Xiyabanı) at sunset for the city panorama
+- 🍴 **⚽ 20:00 — Australia vs Turkey** | Sports bar — try **Finnegan's** (Irish), **Phoenix Pub**, or any Old City cafe with screens
 
 ### June 14 (Sun) — Gobustan + Mud Volcanoes
-- **Gobustan National Park** (~65km south): 6,000+ Bronze Age petroglyphs (UNESCO), mud volcano field (one of the world's densest concentrations), Gobustan Museum
-- **Absheron Mud Volcanoes** (~40km from city): alien landscape, low-risk eruptions — closest accessible field to Baku
-- Taxi/tour (~$40–60 for car, can combine both sites in one day)
+- **Gobustan National Park** (~65km south, taxi/tour ~$40–60): 6,000+ Bronze Age petroglyphs (UNESCO), mud volcano museum
+- **Absheron Mud Volcanoes** (~40km from city): alien landscape, gentle eruptions of cool mud — the world's densest concentration. Need a 4WD or tour vehicle to reach the field.
+- Evening: **Heydar Aliyev Centre** (Zaha Hadid masterpiece, fully white curved building — visit at night for lighting)
 
-### June 15 (Mon) — Architecture + Fire Sites + Depart Ganja
-- Heydar Aliyev Centre (Zaha Hadid), Ateshgah Fire Temple, Yanar Dag Burning Mountain
-- **Evening: overnight train Baku → Ganja** (~$5–8, departs ~20:00, arrives early morning)
+### June 15 (Mon) — Fire Sites + Depart Ganja
+- **Ateshgah Fire Temple** (Surakhani, Zoroastrian/Hindu fire temple at natural gas vent)
+- **Yanar Dag** ("Burning Mountain" — hillside continuously on fire from natural gas seep, 65 years and counting)
+- Lunch: **Mərcan** tea house in Old City for *piti* (lamb-chickpea stew in clay pot, Azerbaijan's iconic dish)
+- Last walk along the Boulevard
+- **🚂 Evening: overnight train Baku → Ganja** (~$5–8, ~20:00 depart, arrives early morning)
+  - Bring water + snacks. Sleeper berths basic but functional.
+
+> **Local tip**: Buy a **BakıKart** for metro/bus (1.30 AZN top-up). Old City to airport via Aerexpress 555 bus (~30min, 1.30 AZN) — much cheaper than taxi (~25 AZN).
 
 ---
 
 ## 🇦🇿 AZERBAIJAN: GANJA — June 16
 
+> **Why**: Azerbaijan's second city, birthplace of medieval poet Nizami Ganjavi, gateway to Lake Goygol and the western land border.
+
 ### June 16 (Tue) — Ganja
-- Nizami Mausoleum (great medieval poet, 12th century), Juma Mosque (1606 Safavid), Bottle House (48,000 glass bottles)
-- Afternoon: Lake Goygol (50km south, 1,556m, stunning blue mountain lake)
+- Morning: arrive from overnight train, breakfast, drop bags
+- **Nizami Mausoleum** (great 12th-century Persian-language poet, Azerbaijan's literary saint)
+- **Juma Mosque** (1606 Safavid era), **Bottle House** (entire facade tiled with 48,000 glass bottles — eccentric local landmark)
+- **Sheikh Bahauddin complex**, **Ganja Gate** (ancient city wall)
+- Afternoon: **Lake Goygol** (50km south, 1,556m alpine lake formed by 1139 earthquake, stunning blue) — taxi ~$30 round trip with waiting
+- 🍽️ **Dinner**: try *qutab* and grilled *tikə* (skewered meat) at any central restaurant. **Araz Restaurant** or local guesthouse meals
 
-### June 17 (Wed) — Ganja → Tbilisi
-- **🚙 Ganja → Red Bridge border crossing** (taxi/marshrutka ~$10)
-- Cross into Georgia → **marshrutka to Tbilisi** (~100km, ~2hrs, ~$5)
-- Arrive Tbilisi afternoon
-
-> **Why Ganja instead of flying Baku→Tbilisi?** Saves ~$120 on a flight, sees Azerbaijan's interesting second city and Lake Goygol, natural overland progression westward.
+### June 17 (Wed) — Direct Marshrutka → Tbilisi
+- **🚐 09:00 — Direct marshrutka Ganja bus station → Tbilisi Ortachala** (~4hrs, ~8 AZN)
+- Single seat, no transfers. Border at Red Bridge handled by driver — you stay with the van.
+- Arrive Tbilisi ~13:00, taxi to accommodation
 
 ---
 
 ## 🇬🇪 GEORGIA: TBILISI — June 17–20
 
+> **Why**: Caucasian crossroads since 5th century. Wood-balcony Old Town, sulphur baths, world's oldest wine tradition (8,000 years), and the most relaxed visa policy on earth (1 year visa-free).
+
 ### June 17 (Wed) — Arrive Tbilisi
-- Old Town evening wander, Sulphur Baths (Abanotubani, ~$20–30/hr private), khinkali dinner
+- Drop bags, lunch
+- **Sulphur Baths** (Abanotubani district, brick beehive domes) — book a private room (~$25–40/hr, includes scrub *kisa*). **Chreli-Abano** is the famous tiled one; **Bath No. 5** is more budget.
+- Evening: Old Town wander — Sioni Cathedral, Anchiskhati Basilica, **Bridge of Peace** (modernist glass bridge, lit at night)
+- 🍴 **Dinner**: **Salobie Bia** (lobio bean-pot specialist), **Pasanauri** (khinkali institution), or **Mapshalia** (Megrelian cuisine — spicier than mainstream Georgian)
 
 ### June 18 (Thu) — Tbilisi City
-- Narikala Fortress (cable car up, walk down), Old Town (Kala), Rustaveli Avenue
-- Georgian National Museum, Fabrika creative hub (evening)
+- **Narikala Fortress** (cable car up from Rike Park ~$1, walk down through Old Town)
+- **Mother of Georgia** statue, **Botanical Gardens** behind Narikala
+- **Rustaveli Avenue** — opera house, parliament, Georgian National Museum
+- **Dry Bridge Flea Market** (Soviet militaria, cameras, jewelry)
+- Evening: **Fabrika** (former Soviet sewing factory turned creative hub — bars, hostel, courtyard)
+- 🍴 **Dinner splurge**: **Shavi Lomi** (Black Lion — elevated Georgian, the city benchmark) or **Barbarestan** (19th-century cookbook recipes, atmospheric basement)
+- 🍷 **Wine bar**: **8000 Vintages**, **g.Vino**, or **Vino Underground** (orange/qvevri wines)
 
 ### June 19 (Fri) — Mtskheta Day Trip + ⚽ TURKEY MATCH 2
-- 20km from Tbilisi (~$1 marshrutka)
-- Svetitskhoveli Cathedral (UNESCO) + Jvari Monastery (6th century, confluence viewpoint)
-- **⚽ 20:00 (8pm Tbilisi) — Turkey vs Paraguay** | Watch in Tbilisi 🍺
+- **Mtskheta** (20km, ~$1 marshrutka or $15 taxi) — Georgia's spiritual capital, 1,500-year-old former kingdom seat
+  - **Svetitskhoveli Cathedral** (UNESCO, 11th century, said to hold Christ's robe)
+  - **Jvari Monastery** (6th century, atop a hill at the confluence of Aragvi + Mtkvari rivers — the view is iconic)
+- Lunch: lobio + mtsvadi at any Mtskheta family restaurant
+- Back in Tbilisi by ~17:00
+- 🍴 **⚽ 20:00 — Turkey vs Paraguay** | **Hangar Bar**, **Drunk Bear**, or **Dive Bar** (Tbilisi has a strong sports-bar scene; English is everywhere)
 
 ### June 20 (Sat) — Kakheti Wine Region
-- Sighnaghi walled hilltop city, Bodbe Convent
-- Wine tastings: Kindzmarauli, Rkatsiteli, Saperavi (Georgia = birthplace of wine, 8,000-year tradition)
+- Day tour or hire driver (~$60–100, easier than DIY for tastings)
+- **Sighnaghi** (walled hilltop "City of Love", panoramic views over Alazani Valley to the Caucasus)
+- **Bodbe Convent** (St Nino's grave — woman who Christianized Georgia in 4th century)
+- **Wine tastings** at family wineries: **Pheasant's Tears** (Sighnaghi), **Khareba** (winery in tunnels), or smaller marani cellars
+- Try: **Saperavi** (red), **Rkatsiteli** (amber/qvevri), **Kindzmarauli** (semi-sweet red — Stalin's favourite)
+
+> **Concept**: Georgian wine is fermented in clay **qvevri** vessels buried underground — UNESCO intangible heritage, oldest unbroken winemaking tradition. Whites kept on skins = orange/amber wine, the original "natural wine."
 
 ### June 21 (Sun) — Tbilisi → Yerevan
-- **🚌 Marshrutka Tbilisi → Yerevan** (~$15–20, departs Ortachala bus station ~10:00, ~5–6hrs)
-- Arrive Yerevan ~16:00
+- **🚐 Marshrutka Tbilisi → Yerevan** (~$15–20, departs Ortachala or Station Square ~09:00–10:00, ~6hrs)
+- **Buy ticket at Comfort office** opposite the marshrutka stop (no on-board payment since 2023)
+- Window seat → enjoy **Debed Canyon** scenery
+- Arrive Yerevan ~16:00, settle in, evening walk
 
-> **Overnight train Tbilisi→Yerevan?** No longer operational — marshrutka is the standard route.
+> **🟡 Train alternative**: South Caucasus Railway #371 departs Tbilisi 22:45 Jun 21 (Sun), arrives Yerevan 09:20 Jun 22. $35–60. **Comfortable but you miss Debed Canyon** (covered at midnight). Pick the bus for scenery.
+
+> **Local Tbilisi tips**:
+> - **Bolt** is the only good ride app (Yandex pulled out post-2022)
+> - **Tap water is excellent** — Georgian mountain water, drinkable everywhere
+> - **Cards work** at almost all restaurants; small cash for marshrutkas
+> - **TBC Bank** ATMs have no fees; **Bank of Georgia** also good
 
 ---
 
 ## 🇦🇲 ARMENIA: YEREVAN — June 21–27
 
+> **Why**: World's first Christian nation (301 AD), oldest continuously inhabited capital in the world (founded 782 BCE — older than Rome), pink-tuff architecture, formidable cognac, Mt Ararat looming over everything.
+
 ### June 21 (Sun) — Arrive Yerevan
-- Check in Republic Square area, evening khorovats + lavash
+- Check in around **Republic Square** (Hraparak) area
+- Evening: Republic Square **dancing fountains** show (21:00–23:00 nightly, summer)
+- 🍴 **Late dinner**: **Tavern Yerevan** (multiple branches, classic khorovats + lavash + cheese plate) or street **lahmajun** stand
 
 ### June 22 (Mon) — Yerevan City
-- Republic Square (dancing fountains at night), Cascade Complex + Cafesjian Museum
-- Vernissage Market, Matenadaran Manuscript Museum
-- Evening: wine tasting on Saryan Street (Areni, Vayots Dzor wines)
+- **Cascade Complex** + **Cafesjian Center for the Arts** (modernist sculpture museum built into stairs)
+- **Matenadaran** (manuscript repository, 17,000+ ancient texts — concept: medieval library where Armenia preserved Hellenistic and early Christian knowledge through Persian/Ottoman/Soviet eras)
+- **Vernissage Market** (weekends best — handicrafts, Soviet militaria, carpets, duduk pipes)
+- Evening: **Saryan Street wine bars** — try Areni, Vayots Dzor wines (Armenia is the *other* claimant to "world's oldest wine" — 6,100-year-old winery found at Areni-1 cave)
+- 🍴 **Dinner**: **Sherep** (modernist Armenian, open kitchen, must-book) or **Lavash Restaurant** (touristy but solid)
 
 ### June 23 (Tue) — Garni + Geghard
-- Garni Temple (1st century AD, only Greco-Roman colonnaded temple in former USSR)
-- Azat Gorge "Symphony of Stones" (natural basalt column formations)
-- Geghard Monastery (UNESCO, partially carved into cliff)
+- Half-day tour or marshrutka + taxi combo (~$30 with driver from Republic Square)
+- **Garni Temple** (1st century AD, only Greco-Roman colonnaded temple in former USSR — pre-Christian Armenia)
+- **Symphony of Stones** in Azat Gorge below Garni — natural basalt column formations like a frozen organ pipe
+- **Geghard Monastery** (UNESCO, partially carved INTO the cliff — 4th century rock-hewn churches with extraordinary acoustic chambers)
+- Lunch: **Garni village** family restaurant — fresh lavash baked in tonir oven, *khorovats* (skewered meat), fresh cheese
 
-### June 24 (Wed) — Khor Virap
-- Khor Virap Monastery (view of Mt Ararat — border permanently closed, view only)
-- Areni Wine Village (Vayots Dzor, Armenia's top wine region)
+### June 24 (Wed) — Khor Virap + Areni
+> **🟡 Long day option** — pick one:
+> - **A: Both in one day** ✅ if hiring driver (~$50–70/day) — Khor Virap (40km south) + Areni (120km south) are on the same road. Doable but ~10hrs total.
+> - **B: Khor Virap only** by tour/marshrutka — half-day, back to Yerevan by 14:00
+> - **C: Areni only** as a wine-focused day — skip Khor Virap (you'll see Ararat from elsewhere)
+
+- **Khor Virap Monastery** — view of **Mt Ararat** (5,165m, in Turkey but the spiritual heart of Armenia, on every label and emblem). Border permanently closed; view-only.
+- **Areni** village — Armenia's top wine region. **Areni-1 Cave** (oldest known winery, 6,100 years old; oldest leather shoe also found here)
+- **Noravank Monastery** (worth adding ~30min detour — dramatic red canyon setting, two-storey Surb Astvatsatsin church with external staircase)
 
 ### June 25 (Thu) — Lake Sevan
-- Sevanavank Monastery (9th century) on the peninsula
-- Lake Sevan at 1,900m elevation — one of the world's largest high-altitude lakes
-- Fresh ishkhan (Sevan trout) lunch at lakeside restaurant
-- **⚽ 06:00 (6am Yerevan) — Turkey vs USA** *(10pm ET Jun 25 = 02:00 UTC = 06:00 local)* ⏰ set alarm
+- 65km north (~1.5hr marshrutka from Hyusisayin / Northern Bus Station, ~$3)
+- **Sevanavank Monastery** (9th century) on Sevan Peninsula
+- Lake at 1,900m elevation — one of the world's largest high-altitude lakes
+- 🍽️ **Lunch**: fresh **ishkhan** (Sevan trout, endangered — sometimes farmed substitute used) or **kololik** (fish meatballs in broth) at lakeside restaurant
+- ⏰ **06:00 (Jun 26) — Turkey vs USA** — set alarm. Watch from hotel/cafe in Yerevan or back at lakeside if staying
 
-### June 26 (Fri) — Flex / Yerevan at leisure
-- Explore Yerevan brandy distillery (Ararat), Blue Mosque, street food
+### June 26 (Fri) — Yerevan Day 2 / Flex
+- **Ararat Brandy Factory tour** — book ahead. Concept: cognac so good Churchill ordered cases of it, sealed off from Western markets for 70 years
+- **Genocide Memorial & Museum** (Tsitsernakaberd) — somber but important; Armenia's defining 20th-century trauma
+- **Blue Mosque** (only mosque in Yerevan, Persian, beautiful tilework — closed for renovation in 2024, check status)
+- **Republic Square at night** (dancing fountains again — the show is iconic)
+- 🍴 **Last Yerevan dinner**: street food **shawarma** at **Mr Gyros** + **Areni 1** wine bar after
 
 ### June 27 (Sat) — ✈️ Fly Yerevan → Batumi
+- Morning flight from Zvartnots (EVN) → Batumi (BUS), ~$80–120
+- **Airlines**: Georgian Airways, FlyOne Armenia, Wizz Air. Direct flights available; if not, Tbilisi connection is short (same-day)
+- Arrive Batumi midday, settle in by sea
 
-> **Flight options EVN → BUS (Batumi International)**
-> Check Skyscanner / Google Flights for live availability. Possible dates:
-> - ~~Jun 20~~ — too early (not yet in Yerevan)
-> - **Jun 24** — tight: gives only 3 nights Yerevan (skip Lake Sevan, skip flex day)
-> - **Jun 27** ✅ recommended — full 5-night Yerevan, lands in Batumi with ~2 nights before Rize crossing
->
-> Airlines to check: Georgian Airways, FlyOne Armenia, Wizz Air, charter routes. No direct flight? Tbilisi connection may be needed (~Tbilisi layover is short, same day possible).
+> **Local Yerevan tips**:
+> - Yerevan is **walkable** — most sights within 30min on foot from Republic Square
+> - **GG Taxi** is cheap (~$2 across town); Bolt also works
+> - **Cash is more common** than Tbilisi — keep small bills
+> - **Russian** is widely spoken, English in younger crowd
+> - **Tap water** drinkable; **public spring fountains (pulpulak)** scattered through city — free, safe, cold
 
 ---
 
-## 🇬🇪 GEORGIA: BATUMI — June 27–29
+## 🇬🇪 GEORGIA: BATUMI — June 27–30
+
+> **Why**: Black Sea resort, palm-lined boulevard, casino skyline, Adjarian Muslim-Christian culture, doorstep to Turkey. The over-the-top architecture (Ferris wheel embedded in a building, McDonald's that looks like a spaceship) is half the point.
 
 ### June 27 (Sat, evening) — Arrive Batumi
-- Old Town evening wander, Batumi Boulevard (6km palm seafront), Ali & Nino moving sculpture
+- Check in near Old Town or Boulevard
+- **Batumi Boulevard** evening walk (6km palm seafront), **Ali & Nino moving sculpture** (two figures rotate together then through each other, every 10min)
+- 🍴 **Dinner**: **adjaruli khachapuri** — boat-shaped bread filled with cheese, butter, raw egg yolk you stir in. **Retro** is the famous spot; smaller bakeries do it cheaper
 
-### June 28 (Sun) — Batumi Day 1
-- Batumi Botanical Garden, Gonio-Apsaros Roman Fortress (~20km south), Black Sea swim
+### June 28 (Sun) — Batumi Day
+- **Batumi Botanical Garden** (9km north, 100+ hectares, 7 different climate zones — the city's quiet escape)
+- **Gonio-Apsaros Roman Fortress** (~20km south, near Sarpi border, Roman castrum from 1st century AD)
+- **Black Sea swim** — pebble beach, decent water in summer
+- Evening: **Argo cable car** to Anuria Mountain for sunset views
+- 🍴 **Dinner**: **Munich Bar** (Georgian craft beer + sausages), or seaside places for **Black Sea barabulka** (red mullet) and **kalmari** grilled
 
-### June 28 or 29 — Optional: Kutaisi Day Trip
-- Marshrutka Batumi → Kutaisi (~2–2.5hrs, ~$5 each way)
-- Bagrati Cathedral (UNESCO, 11th century) + Gelati Monastery (UNESCO, medieval academy)
-- Prometheus Cave (spectacular stalactites, boat ride option)
-- Return to Batumi same evening — long day (~10hrs) but worthwhile if time allows
-- **Worth it?** Yes — both UNESCO sites are unique and can't be seen otherwise in this routing. Skip only if Jun 27 flight arrives late or you need a rest day.
+### June 29 (Mon) — Kutaisi Day Trip
+- **🚐 Marshrutka Batumi → Kutaisi** (departs Old Bus Station ~07:00, ~2.5hrs, ~$5)
+- **Bagrati Cathedral** (UNESCO, 11th century, panoramic Kutaisi view)
+- **Gelati Monastery** (UNESCO, medieval academy founded 1106 by King David IV — frescoes inside are extraordinary)
+- **Prometheus Cave** (~20km, stalactite cave with underground river boat ride, ~$10)
+- Lunch in Kutaisi: **Palaty** (atmospheric central courtyard restaurant) or **Toma's Wine Cellar**
+- Return Batumi by ~19:00–20:00
 
-### June 29 (Mon) — Last Georgian evening
-- Last Georgian wine, local food, prepare for Turkey crossing
+> **Skip Kutaisi if**: you arrived Batumi late, want a beach rest day, or had enough monasteries in Armenia. But both UNESCO sites are unique to this leg — strongly recommended.
+
+### June 30 (Tue) — Batumi Morning + Cross to Rize
+- Last morning swim, last khachapuri
+- **City bus 16** to Sarpi border (45min, ~0.40 GEL) — leave by ~10:00 to avoid peak queue, cross mid-morning
+- Walk across Sarpi border on foot, dolmuş on Turkish side → **Rize** (~1hr via Hopa)
 
 ---
 
-## 🇹🇷 TURKEY: RIZE — June 29 → July 2
+## 🇹🇷 TURKEY: RIZE — June 30 → July 2
 
-### June 29 (Mon) — Cross Border → Rize
-- Batumi → Sarpi land border crossing (~15km) ✅ open
-- Hopa (first Turkish town) → dolmuş to **Rize** (~66km, ~1hr)
-- 🗺️ Order from Georgia: Sarpi → Hopa → **Rize** → Trabzon (west) — no backtracking ✅
+> **Why**: Heart of Turkey's tea industry (60% of national tea grown in this province), green Black Sea hills, Hemshin/Laz cultural mix, gateway to high-altitude yayla pastures and Kaçkar mountain valleys.
 
-### June 30 (Tue) — Rize: Tea & Fortresses
-- Rize Tea Gardens (Turkey produces ~60% of its own tea here, all in Rize province)
-- Rize Castle + Zil Castle, Rize Museum
+### June 30 (Tue) — Cross Border → Rize
+- Arrive Rize afternoon, check in
+- **Rize Castle** (Byzantine, hill above the city — sunset views over the Black Sea)
+- **Rize Museum** (small, Pontic/Ottoman history)
+- 🍽️ **First Turkish dinner**: **muhlama** (cornmeal + cheese fondue, Black Sea staple), **hamsi tava** (anchovies in cornmeal pan-fry), Rize tea after
 
-> **⚽ Round of 16 (Jul 1–4)**: If Turkey qualify, you'll be watching their knockout match FROM TURKEY 🇹🇷
+### July 1 (Wed) — Tea + Inland Choice
+- **Çay Bahçesi** (Tea Garden) on the hills behind town — proper Rize tea ritual (small glass, hourglass shape, no milk)
+- **Atatürk House Museum** (a mansion he stayed in — also Atatürk loved Black Sea hazelnuts)
+- **Choice of inland excursion**:
+  - **Ayder Plateau** (~70km inland, 1,400m alpine yayla — thermal baths, meadows, Hemshin culture)
+  - **Fırtına Valley** (~45km inland — Ottoman stone bridges, dense rainforest, **Şenyuva hanging bridge**, **Zil Castle** atop a vertiginous outcrop)
 
-### July 1 (Wed) — Ayder Plateau / Fırtına Valley
-- **Ayder Plateau** (~70km inland): alpine yayla, thermal springs (kaplıca), meadows, waterfalls
-- **OR Fırtına Valley** (~45km): Ottoman stone bridges, dense rainforest, Şenyuva hanging bridge
+> **⚽ Round of 16 (Jul 1–4)**: If Turkey qualify, watch the knockout match in any tea garden / kiraathane in Rize — it'll be a packed local affair.
+
+### July 2 (Thu) — Rize → Trabzon
+- Morning: any unfinished Rize sights, last muhlama lunch
+- **Dolmuş Rize → Trabzon** (~66km, ~1hr, ~₺40)
 
 ---
 
 ## 🇹🇷 TURKEY: TRABZON — July 2 → ~July 4
 
-### July 2 (Thu) — Rize → Trabzon
-- Dolmuş Rize → Trabzon (~66km west, ~1hr) ✅ heading west, no backtracking
-- Trabzon Aya Sofya (Byzantine frescoes, 13th century), city center, hamsi (Black Sea anchovy) dinner
+> **Why**: 2,500-year-old port (Byzantine Empire of Trebizond capital), Black Sea cuisine, gateway to **Sümela Monastery** carved into a vertical cliff at 1,200m.
 
-### July 3–4 (Fri–Sat) — Trabzon
-- Sümela Monastery (cliffside Byzantine monastery at 1,200m, carved into vertical rock face)
-- Uzungöl Lake (alpine glacial lake, ~100km south)
-- Atatürk Köşkü mansion
-- **🛫 Fly home from Trabzon Airport (TZX)** → Istanbul connections
+### July 2 (Thu) — Trabzon Arrival
+- **Trabzon Aya Sofya** (Byzantine, 13th century, frescoes inside) — different from Istanbul's; this one was a Komnenos-era cathedral
+- **Boztepe** hilltop for city + Black Sea views
+- **Atatürk Köşkü** (Russian-built mansion, Atatürk's summer residence — restored)
+- 🍴 **Dinner**: **hamsi tava** + **kuymak** (the local muhlama) at any **Bordo Mavi** or **Cemilusta** branch — Trabzon takes its anchovies seriously
+
+### July 3 (Fri) — Sümela Monastery
+- 50km south (~1hr), shared minibus from Trabzon **Russian Bazaar** area or Otogar (~₺50 RT)
+- **Sümela Monastery** — Byzantine monastery clinging to a vertical cliff face at 1,200m, founded 386 AD. Frescoes in the rock church are partially restored (some vandalised). The approach hike from the parking area is steep but short.
+- Optional: **Uzungöl** (~100km south, alpine glacial lake — touristy but picturesque) if Sümela ends early
+
+### July 4 (Sat) — Last Day + Fly Home
+- Morning: **Çarşı Camii** + **Trabzon Castle**, last hamsi
+- **🛫 Fly home from Trabzon Airport (TZX)** → Istanbul (THY/Pegasus connections to Europe)
+
+> **Local Turkey tips**:
+> - **Tourist e-visa** if needed: [evisa.gov.tr](https://evisa.gov.tr)
+> - **Lira inflation**: prices change weekly — withdraw small amounts. **No exchange shops at airports** at decent rates; ATMs only.
+> - **Pay in lira always** — being charged in EUR/USD = bad rate
+> - Rize/Trabzon = conservative dress code modest; alcohol available but not flaunted
+> - **BiTaksi** app works in cities; village/rural transport is dolmuş (shared minibus)
 
 ---
 
@@ -344,13 +487,14 @@ Baku (AZ) → [fly ~$60] Tbilisi (GE, brief stopover) → [marshrutka] Yerevan (
 
 | Constraint | Status |
 |------------|--------|
-| Rize before September (Sept = 253mm rain) | ✅ Arrive ~June 29 |
+| Rize before September (Sept = 253mm rain) | ✅ Arrive ~June 30 |
 | Rize before Trabzon, no backtracking | ✅ Rize → Trabzon heading west |
-| No Armenia → Turkey crossing | ✅ Return via Tbilisi |
+| No Armenia → Turkey crossing | ✅ Yerevan → fly Batumi → land border |
 | Tour on a Wednesday | ✅ May 27 = Wednesday |
 | Bishkek → Almaty last bus 18:00 | ✅ June 4 departure |
 | Weekend in Almaty | ✅ June 6–7 in city |
 | Altyn Emel needs 2 days for Aktau Mountains | ✅ June 9–10 |
 | Turkey Match 1 (Jun 13) at good time | ✅ 8pm Baku |
 | Turkey Match 2 (Jun 19) at good time | ✅ 8pm Tbilisi |
+| Turkey Match 3 (Jun 25) — early hours, set alarm | ⏰ 06:00 Yerevan |
 | Aktau flight legitimate (World Ticket Ltd) | ✅ IATA accredited, founded 2002 |
