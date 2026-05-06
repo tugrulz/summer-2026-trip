@@ -56,11 +56,37 @@ Baku (AZ) → [fly ~$60] Tbilisi (GE, brief stopover) → [marshrutka] Yerevan (
 
 ## ⚠️ Key Logistics
 
-- 🚫 **Azerbaijan → Georgia**: Land border (Red Bridge) **open** — bus/taxi from Ganja via Red Bridge to Tbilisi is the route. Saves ~$120 vs flying.
+- 🚫 **Azerbaijan → Georgia**: Land border (Red Bridge) **open** — direct marshrutka Ganja → Tbilisi is the route. Saves ~$120 vs flying.
 - 🚫 **Azerbaijan → Armenia**: No direct flights, no diplomatic relations. Route: Baku → Ganja → Tbilisi → Yerevan (marshrutka). Return route: Yerevan → fly Batumi (check Jun 27 EVN→BUS).
-- 🚫 **Armenia → Turkey**: Border permanently **closed** since 1993. Cannot cross. Return to Tbilisi and continue west.
-- 🌧️ **Rize weather**: Must arrive before September (Sept avg 253mm rain). Arrive ~June 29 ✅
+- 🚫 **Armenia → Turkey**: Border permanently **closed** since 1993. Cannot cross. Exit via Yerevan → Batumi.
+- 🌧️ **Rize weather**: Must arrive before September (Sept avg 253mm rain). Arrive ~June 30 ✅
 - 🗺️ **Turkey coast order from Georgia**: Sarpi border → Hopa → **Rize** → Trabzon (west). Rize first, then Trabzon. No backtracking.
+
+---
+
+## 🛣️ Border Crossings & Transit Notes
+
+### Ganja → Tbilisi (Red Bridge / Qırmızı Körpü)
+- **Best option**: Direct marshrutka Ganja bus station → Tbilisi Ortachala, departs **09:00**, ~4hrs, ~8 AZN (~$5)
+- Drivers Elçin and Rasul alternate daily — **not bookable online**, ask your guesthouse to arrange or go to the bus station the day before. No major platform lists this service.
+  - [Wikivoyage – Ganja](https://en.wikivoyage.org/wiki/Ganja) | [TripAdvisor thread](https://www.tripadvisor.com/ShowTopic-g293933-i9346-k14740685-Ganja_to_Tbilisi-Azerbaijan.html) | [Rome2rio](https://www.rome2rio.com/s/Ganja/Tbilisi)
+- **Backup DIY**: marshrutka Ganja → Qazakh (~4 AZN, 2hrs) → marshrutka to Red Bridge (~1 AZN) → walk border → marshrutka Georgia side → Tbilisi (~5 GEL). More faff, ~$15 total.
+- ⚠️ **Border gotcha**: Red Bridge is 24/7 but reported as **one-way only (AZ→GE)**. Fine for your direction; do not plan to return this way.
+
+### Tbilisi → Yerevan (Sadakhlo / Bagratashen border)
+- **Best option for scenery**: Daytime **marshrutka** ($20–25, ~6hrs). Departs Station Square or Ortachala. **Buy ticket at Comfort office** across from pickup — no payment on board (changed 2023). Arrives Kilikia station, Yerevan.
+  - [Frugal Travellers guide](https://frugaltravellers.com/tbilisi-to-yerevan-by-marshrutka/) | [Absolute Armenia guide](https://absolutearmenia.com/tbilisi-to-yerevan-bus/)
+- **Overnight train**: Still running (South Caucasus Railway, $35–60). Jun 21 (Sun = odd day) departs **22:45**, arrives Yerevan **09:20** Jun 22. Comfortable but **misses all scenery** — Debed Canyon is traversed at midnight.
+  - [Wander-lush train guide](https://wander-lush.org/train-from-tbilisi-to-yerevan/)
+- 🏔️ **Scenery verdict**: Marshrutka wins clearly. The road passes through the dramatic **Debed Canyon / Alaverdi gorge** (350m cliffs, forested slopes, ancient monasteries on the rim) — ask driver if going via M6/Alaverdi route or M16/Dilijan/Lake Sevan route, both have excellent scenery. The train covers this same canyon section at night and you see nothing.
+- ⚠️ **Border gotcha**: Border control changed Jan 2025 — Russian guards gone, Armenian Border Guard now fully in charge. Bagratashen/Sadakhlo crossing is generally fastest (15–45 min). Visa-free for most Western nationalities.
+
+### Batumi → Rize (Sarpi / Sarp border)
+- **DIY local (recommended)**: Bus 16 Batumi → Sarpi (45min, ~0.40 GEL) → **walk across on foot** → dolmuş Hopa → Rize (~45min). Total ~$3–5.
+  - [Frugal Travellers – Sarpi crossing](https://frugaltravellers.com/sarpi-border-crossing-georgia-to-turkey/)
+- **Direct bus**: Metro Turizm / Citybus Georgia from Batumi bus station ($10–14). You still exit and cross on foot — just reboard a Turkish bus on the other side.
+- ⚠️ **Border gotcha**: Sarpi is 24/7 open but **peak 07:00–08:00 has 1–3hr queues** (mainly trucks and cars). Cross mid-morning on foot to skip most of the wait. Luggage scanned on both sides.
+- 🛑 **Hopa stopover**: Hopa itself is a transit town — pebble beach, bazaar, Black Sea tea culture, Laz/Georgian cultural mix. Fine for a tea stop and to buy local honey/hazelnuts, but not worth an overnight. The real draw is **Fırtına Valley** (~1.5hrs southwest of Hopa toward Rize) — medieval stone bridges, dense Black Sea rainforest, Ayder Plateau hot springs. Already in the Rize itinerary.
 
 ---
 
