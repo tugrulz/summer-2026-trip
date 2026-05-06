@@ -186,9 +186,17 @@ Baku (AZ) → [fly ~$60] Tbilisi (GE, brief stopover) → [marshrutka] Yerevan (
 - **Option C**: **Tamgaly Petroglyphs** (UNESCO, 170km west) if interested in Bronze Age rock art
 
 ### June 8 (Mon) — Charyn Canyon
-- ~196km east (~2.5hrs). Day tour ~$25–35pp (group), private car ~$80
+- ~196km east (~2.5hrs). No public transport — tour or car required.
 - **Valley of Castles** (12km canyon walk, dramatic orange sandstone formations) + Charyn River
 - Optional add-on: **Kolsai Lakes** (alpine forest lakes 2hrs further) — only if doing a 2-day combo
+
+> **💸 Charyn Canyon tour options**:
+> | Option | ~Price | Notes |
+> |--------|--------|-------|
+> | **Onyx Tours** or **Joinme.Asia** | **~$15pp** | Cheapest local operators, daily (ex-Tue). Contact Onyx: WhatsApp +77777306598. Russian-speaking but takes English. Entry fee included. |
+> | **KazGuidedTours** group | ~$25–35pp | [kazguidedtours.com](https://kazguidedtours.com/tours/charyn-canyon-tour) — English-speaking, 4WD |
+> | Private car (split 4 people) | ~$20–25pp | Hotel/hostel can arrange ~$80–100/car |
+> | DIY marshrutka | cheapest but hard | Bus toward Kegen, get dropped at Charyn turnoff → 10km walk to entrance. Not recommended. |
 
 ### June 9 (Tue) — Altyn Emel Day 1
 - ~200km east (~3hrs). Jeep/guided tour required.
@@ -267,9 +275,18 @@ Baku (AZ) → [fly ~$60] Tbilisi (GE, brief stopover) → [marshrutka] Yerevan (
 - 🍴 **⚽ 20:00 — Australia vs Turkey** | Sports bar — try **Finnegan's** (Irish), **Phoenix Pub**, or any Old City cafe with screens
 
 ### June 14 (Sun) — Gobustan + Mud Volcanoes
-- **Gobustan National Park** (~65km south, taxi/tour ~$40–60): 6,000+ Bronze Age petroglyphs (UNESCO), mud volcano museum
-- **Absheron Mud Volcanoes** (~40km from city): alien landscape, gentle eruptions of cool mud — the world's densest concentration. Need a 4WD or tour vehicle to reach the field.
-- Evening: **Heydar Aliyev Centre** (Zaha Hadid masterpiece, fully white curved building — visit at night for lighting)
+- **Gobustan National Park** (~65km south): 6,000+ Bronze Age petroglyphs (UNESCO), mud volcano museum
+- **Absheron Mud Volcanoes** (~40km from city): alien landscape, gentle eruptions of cool mud — world's densest concentration. Need a 4WD or tour to reach the field.
+- Evening: **Heydar Aliyev Centre** (Zaha Hadid masterpiece — visit at night for the lighting)
+
+> **💸 Gobustan + Mud Volcanoes tour options**:
+> | Option | ~Price | Notes |
+> |--------|--------|-------|
+> | **Old City Tours** group half-day | **~$19–29pp** | Hotel pickup included, drop at Mini Venice ~13:30. [oldcity.tours](https://www.oldcity.tours/thing-to-do/group-tours/mud-volcanoes-gobustan-group-tour) |
+> | **Best Baku Tours** half-day | ~$25pp | 4–5 hrs. [bestbakutours.com](https://bestbakutours.com/tour/gobustan-and-mud-volcanoes-tour-half-day/) |
+> | GetYourGuide combo (Gobustan + Fire Temple + Yanar Dag) | ~$29pp, 7hrs | Full day, covers Jun 14 + Jun 15 sites in one go |
+> | DIY Gobustan only | ~$3 | Bus 195 from Avtovağzal → Gobustan town, then taxi to park. Mud volcanoes need a 4WD taxi (negotiate ~15 AZN). |
+> | ⚠️ Mandatory surcharge | +30 AZN/pp | Cash only, collected at tour start for 4WD vehicle to mud volcano field. Bring it regardless of which option. |
 
 ### June 15 (Mon) — Fire Sites + Depart Ganja
 - **Ateshgah Fire Temple** (Surakhani, Zoroastrian/Hindu fire temple at natural gas vent)
@@ -330,11 +347,20 @@ Baku (AZ) → [fly ~$60] Tbilisi (GE, brief stopover) → [marshrutka] Yerevan (
 - 🍴 **⚽ 20:00 — Turkey vs Paraguay** | **Hangar Bar**, **Drunk Bear**, or **Dive Bar** (Tbilisi has a strong sports-bar scene; English is everywhere)
 
 ### June 20 (Sat) — Kakheti Wine Region
-- Day tour or hire driver (~$60–100, easier than DIY for tastings)
 - **Sighnaghi** (walled hilltop "City of Love", panoramic views over Alazani Valley to the Caucasus)
 - **Bodbe Convent** (St Nino's grave — woman who Christianized Georgia in 4th century)
 - **Wine tastings** at family wineries: **Pheasant's Tears** (Sighnaghi), **Khareba** (winery in tunnels), or smaller marani cellars
 - Try: **Saperavi** (red), **Rkatsiteli** (amber/qvevri), **Kindzmarauli** (semi-sweet red — Stalin's favourite)
+
+> **💸 Kakheti tour options**:
+> | Option | ~Price | Notes |
+> |--------|--------|-------|
+> | **DIY marshrutka** | **~$5 each way** | Marshrutka Tbilisi (Station Square) → Sighnaghi (~2.5hrs). Walk Sighnaghi + Bodbe on foot. Wineries are walkable or short taxi. No guide but very cheap. |
+> | **Guesthouse driver** | ~$60–80/car | Ask your Tbilisi accommodation to arrange. Best value if 2–3 people. |
+> | **Eat This! Tours** | mid-range | Top-rated local Georgian company, small groups, 9+ tastings, lunch included. [eatthistours.com](https://eatthistours.com). |
+> | **GetYourGuide small-group** | ~$50–70pp | Includes Sighnaghi, Bodbe, Badiauri bread village, wine tastings. [GetYourGuide](https://www.getyourguide.com/tbilisi-l1379/kakheti-wine-region-full-day-small-group-tour-from-tbilisi-t213765/) |
+> | **Viator** | ~$50–80pp | Various group options, check cancellation policies |
+> ⚠️ Many tours quote base price but charge extra for wine/food — confirm what's included before booking.
 
 > **Concept**: Georgian wine is fermented in clay **qvevri** vessels buried underground — UNESCO intangible heritage, oldest unbroken winemaking tradition. Whites kept on skins = orange/amber wine, the original "natural wine."
 
@@ -371,28 +397,50 @@ Baku (AZ) → [fly ~$60] Tbilisi (GE, brief stopover) → [marshrutka] Yerevan (
 - 🍴 **Dinner**: **Sherep** (modernist Armenian, open kitchen, must-book) or **Lavash Restaurant** (touristy but solid)
 
 ### June 23 (Tue) — Garni + Geghard
-- Half-day tour or marshrutka + taxi combo (~$30 with driver from Republic Square)
 - **Garni Temple** (1st century AD, only Greco-Roman colonnaded temple in former USSR — pre-Christian Armenia)
 - **Symphony of Stones** in Azat Gorge below Garni — natural basalt column formations like a frozen organ pipe
 - **Geghard Monastery** (UNESCO, partially carved INTO the cliff — 4th century rock-hewn churches with extraordinary acoustic chambers)
-- Lunch: **Garni village** family restaurant — fresh lavash baked in tonir oven, *khorovats* (skewered meat), fresh cheese
+- Lunch: **Garni village** family restaurant — fresh lavash baked in tonir oven, *khorovats*, fresh cheese
 
-### June 24 (Wed) — Khor Virap + Areni
-> **🟡 Long day option** — pick one:
-> - **A: Both in one day** ✅ if hiring driver (~$50–70/day) — Khor Virap (40km south) + Areni (120km south) are on the same road. Doable but ~10hrs total.
-> - **B: Khor Virap only** by tour/marshrutka — half-day, back to Yerevan by 14:00
-> - **C: Areni only** as a wine-focused day — skip Khor Virap (you'll see Ararat from elsewhere)
+> **💸 Garni + Geghard options — DIY is easy and cheapest**:
+> | Option | ~Price | Notes |
+> |--------|--------|-------|
+> | **DIY marshrutka + taxi** ✅ | **~$5–8 total** | Marshrutka from **Gai bus station** (take metro to Gai, cross toward Mercedes-Benz showroom) → Garni (~800–1,000 AMD, ~$2). Taxi Garni→Geghard→Garni: ~3,000–4,000 AMD (~$7–10) with waiting. Return marshrutka. |
+> | Shared taxi from Republic Sq | ~$15–20pp | Negotiate a driver at Republic Square, share with other tourists |
+> | Tour (Viator/GetYourGuide) | ~$27–40pp | [Viator from $26.67](https://www.viator.com/tours/Yerevan/Private-Day-Trip-from-Yerevan-to-Garni-Temple-and-Geghard-Monastery/d22425-34487P17) — worth it only if you want a guide |
+> - Entrance: Garni = 1,500 AMD (~$4); Geghard = **free**
 
-- **Khor Virap Monastery** — view of **Mt Ararat** (5,165m, in Turkey but the spiritual heart of Armenia, on every label and emblem). Border permanently closed; view-only.
-- **Areni** village — Armenia's top wine region. **Areni-1 Cave** (oldest known winery, 6,100 years old; oldest leather shoe also found here)
-- **Noravank Monastery** (worth adding ~30min detour — dramatic red canyon setting, two-storey Surb Astvatsatsin church with external staircase)
+### June 24 (Wed) — Khor Virap + Areni + Noravank
+> **🟡 Long day — pick one option**:
+> - **A: All three with driver** ✅ recommended — Khor Virap (40km) + Areni (120km) + Noravank (~130km) all on same southern road. ~10hrs, need a car.
+> - **B: Khor Virap only** — half-day marshrutka, back by 14:00. Simple, cheap.
+> - **C: Areni + Noravank only** — skip Khor Virap (you'll see Ararat from elsewhere), focus on wine + architecture.
+
+- **Khor Virap Monastery** — iconic view of **Mt Ararat** (5,165m, in Turkey, on every Armenian emblem). Border permanently closed; view-only.
+- **Areni** village — **Areni-1 Cave** (oldest known winery, 6,100 years old; oldest leather shoe found here too). Wine tasting at local wineries.
+- **Noravank Monastery** — dramatic red canyon setting, two-storey church with external staircase.
+
+> **💸 Tour options**:
+> | Option | ~Price | Notes |
+> |--------|--------|-------|
+> | **Private car, share with 2 others** | **~$40–65pp** | Best value for all 3 sites. Total ~$120–130/car. Find travel partners at hostel. |
+> | GG Taxi / local driver full day | ~$50–70 total | Negotiate directly, not via app. Ask at Kilikia bus station area. |
+> | **Viator small group** | ~$55–70pp | [Khor Virap + Areni + Noravank](https://www.tripadvisor.com/AttractionProductReview-g293932-d15830097-Group_Day_tour_Khor_Virap_Areni_Noravank_2025-Yerevan.html) — group rate, English guide, includes wine tasting |
+> | Khor Virap only by marshrutka | ~$3 total | Marshrutka from Yerord Mas station → Artashat (~500 AMD), taxi to Khor Virap (~3km, ~1,500 AMD). Back same way. |
 
 ### June 25 (Thu) — Lake Sevan
-- 65km north (~1.5hr marshrutka from Hyusisayin / Northern Bus Station, ~$3)
 - **Sevanavank Monastery** (9th century) on Sevan Peninsula
 - Lake at 1,900m elevation — one of the world's largest high-altitude lakes
-- 🍽️ **Lunch**: fresh **ishkhan** (Sevan trout, endangered — sometimes farmed substitute used) or **kololik** (fish meatballs in broth) at lakeside restaurant
-- ⏰ **06:00 (Jun 26) — Turkey vs USA** — set alarm. Watch from hotel/cafe in Yerevan or back at lakeside if staying
+- 🍽️ **Lunch**: fresh **ishkhan** (Sevan trout) or **kololik** (fish meatballs) at lakeside restaurant
+- ⏰ **06:00 (Jun 26) — Turkey vs USA** — set alarm.
+
+> **💸 Lake Sevan — DIY is easy and very cheap**:
+> | Option | ~Price | Notes |
+> |--------|--------|-------|
+> | **Marshrutka (DIY)** ✅ | **~$2–4 each way** | Depart **Northern Bus Station** (Barekamutyun metro). Marshrutka to Sevan town ~800–1,500 AMD. Hourly in summer. Say "Sevanavank." |
+> | Return from lake | ~$2 | Taxi from Sevanavank to Sevan bus stop (~1,500 AMD, 20 min) → marshrutka back to Yerevan |
+> | Organised tour | ~$30–50pp | Not worth it — DIY is trivial here |
+> - **Tip**: marshrutkas fill before departing. Sit in whichever van has the most people already in it.
 
 ### June 26 (Fri) — Yerevan Day 2 / Flex
 - **Ararat Brandy Factory tour** — book ahead. Concept: cognac so good Churchill ordered cases of it, sealed off from Western markets for 70 years
@@ -460,10 +508,20 @@ Baku (AZ) → [fly ~$60] Tbilisi (GE, brief stopover) → [marshrutka] Yerevan (
 
 ### July 1 (Wed) — Tea + Inland Choice
 - **Çay Bahçesi** (Tea Garden) on the hills behind town — proper Rize tea ritual (small glass, hourglass shape, no milk)
-- **Atatürk House Museum** (a mansion he stayed in — also Atatürk loved Black Sea hazelnuts)
+- **Atatürk House Museum**
 - **Choice of inland excursion**:
-  - **Ayder Plateau** (~70km inland, 1,400m alpine yayla — thermal baths, meadows, Hemshin culture)
-  - **Fırtına Valley** (~45km inland — Ottoman stone bridges, dense rainforest, **Şenyuva hanging bridge**, **Zil Castle** atop a vertiginous outcrop)
+  - **Ayder Plateau** (~70km inland, 1,400m alpine yayla — thermal baths, meadows, Kaçkar peaks, Hemshin culture)
+  - **Fırtına Valley** (~45km inland — Ottoman stone bridges, dense rainforest, Şenyuva hanging bridge, Zil Castle)
+  - **Both** — Fırtına Valley is on the road to Ayder; doable in one long day
+
+> **💸 Ayder / Fırtına Valley options**:
+> | Option | ~Price | Notes |
+> |--------|--------|-------|
+> | **DIY dolmuş** ✅ | **~$2–3 total** | Dolmuş Rize → Çamlıhemşin (~₺30, 1hr) → dolmuş Çamlıhemşin → Ayder (~₺15, 30min). Return same way. Check departure times at Rize otogar — not always frequent. |
+> | **Group tour from Rize/Trabzon** | ~€47–50pp | [GetYourGuide](https://www.getyourguide.com/trabzon-l32545/rize-ayder-tour-kackar-mountains-firtina-valley-t473523/) — 9hrs, Fırtına + Ayder combined, pickup from Trabzon or Rize hotels |
+> | **Minister Tours / Zenofon Tours** | ~€46–50pp | Local Trabzon-based, English guides. [ministertours.com](https://www.ministertours.com/en/trabzon/firtina-valley-ayder-highland), [zenofontours.com](https://www.zenofontours.com/ayder-tour-daily-group-tour-from-trabzon-t109) |
+> | Private taxi | ~₺1,500–2,000 | Negotiate at Rize otogar. Good if 3+ people splitting |
+> ⚠️ Rafting/zipline in Fırtına Valley is extra (~₺200–400) — optional add-on not included in tour price.
 
 > **⚽ Round of 16 (Jul 1–4)**: If Turkey qualify, watch the knockout match in any tea garden / kiraathane in Rize — it'll be a packed local affair.
 
