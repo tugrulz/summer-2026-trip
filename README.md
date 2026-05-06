@@ -12,7 +12,7 @@
 Bishkek (KG) → [tour] Issyk-Kul + Song-Kul (KG) → Cholpon-Ata (KG)
 → [bus $7] Almaty (KZ) → [overnight] Altyn Emel (KZ) → [day trip] Charyn Canyon (KZ)
 → [fly £48] Aktau (KZ) → [fly] Baku (AZ) → [overnight train] Ganja (AZ)
-→ [marshrutka, Red Bridge border] Tbilisi (GE) → [marshrutka] Yerevan (AM)
+→ [marshrutka, Red Bridge border] Tbilisi (GE) → [marshrutka] Gyumri (AM) → [marshrutka] Yerevan (AM)
 → [fly ~$80] Batumi (GE) → [day trip] Kutaisi (GE) → [Sarpi border] Rize (TR) → Trabzon (TR)
 ```
 
@@ -31,7 +31,7 @@ Baku (AZ) → [fly ~$60] Tbilisi (GE, brief stopover) → [marshrutka] Yerevan (
 |-------|------|----|---------------|------------|
 | 🇦🇺 Australia vs 🇹🇷 Turkey | Jun 13 (Sat) | 12pm | **Baku 🇦🇿** | **20:00** 🍺 |
 | 🇹🇷 Turkey vs 🇵🇾 Paraguay | Jun 19 (Fri) | 12pm | **Tbilisi 🇬🇪** | **20:00** 🍺 |
-| 🇹🇷 Turkey vs 🇺🇸 USA | Jun 25 (Thu) | 10pm | **Yerevan 🇦🇲** | **06:00 Jun 26** ⏰ |
+| 🇹🇷 Turkey vs 🇺🇸 USA | Jun 25 (Thu) | 10pm | **Yerevan 🇦🇲** | **06:00 Jun 26** ⏰ (then head to Sevan) |
 | Round of 16 (if qualified) | Jul 1–4 | TBC | **Rize / Trabzon 🇹🇷** | TBC 🇹🇷 |
 
 ---
@@ -364,13 +364,26 @@ Baku (AZ) → [fly ~$60] Tbilisi (GE, brief stopover) → [marshrutka] Yerevan (
 
 > **Concept**: Georgian wine is fermented in clay **qvevri** vessels buried underground — UNESCO intangible heritage, oldest unbroken winemaking tradition. Whites kept on skins = orange/amber wine, the original "natural wine."
 
-### June 21 (Sun) — Tbilisi → Yerevan
-- **🚐 Marshrutka Tbilisi → Yerevan** (~$15–20, departs Ortachala or Station Square ~09:00–10:00, ~6hrs)
-- **Buy ticket at Comfort office** opposite the marshrutka stop (no on-board payment since 2023)
-- Window seat → enjoy **Debed Canyon** scenery
-- Arrive Yerevan ~16:00, settle in, evening walk
+### June 21 (Sun) — Tbilisi → Gyumri
+- **🚐 Marshrutka Tbilisi → Gyumri** (~$10–15, departs Ortachala ~09:00, ~4–5hrs via Bagratashen border)
+- **Buy ticket at Comfort office** opposite the marshrutka stop
+- Window seat → enjoy **Debed Canyon** scenery (same route, drops you in Gyumri rather than continuing to Yerevan)
+- Arrive Gyumri early afternoon, check in, explore
 
-> **🟡 Train alternative**: South Caucasus Railway #371 departs Tbilisi 22:45 Jun 21 (Sun), arrives Yerevan 09:20 Jun 22. $35–60. **Comfortable but you miss Debed Canyon** (covered at midnight). Pick the bus for scenery.
+---
+
+## 🇦🇲 ARMENIA: GYUMRI — June 21
+
+> **Why**: Armenia's second city, "City of Sad Smiles." Devastated by the 1988 earthquake (25,000 dead), still visibly rebuilding 35 years later. Black tuff stone architecture, strong arts tradition, working-class grit. Un-touristy in a way Yerevan no longer is.
+
+### June 21 (Sun, afternoon) — Gyumri
+- **Kumayri Historic District** — 19th-century Russian Imperial black tuff stone streets, the city's pre-earthquake heart. Walk for an hour and you'll feel the weight of what was lost and what survived.
+- **Aslamazyan Sisters House-Museum** (two painter sisters, 20th century, remarkable collection in an old mansion)
+- **Russian Fortress ruins** (1837) on the edge of the district
+- **Vardanants Square** + local cafes — sit with a coffee and watch the city
+- Evening: *khorovats* at a local grill, cheap and excellent
+
+> **Logistics**: Gyumri → Yerevan next morning — marshrutka from Gyumri bus station (~1.5–2hrs, ~500–700 AMD). Frequent departures. No need to book ahead.
 
 > **Local Tbilisi tips**:
 > - **Bolt** is the only good ride app (Yandex pulled out post-2022)
@@ -380,23 +393,26 @@ Baku (AZ) → [fly ~$60] Tbilisi (GE, brief stopover) → [marshrutka] Yerevan (
 
 ---
 
-## 🇦🇲 ARMENIA: YEREVAN — June 21–27
+## 🇦🇲 ARMENIA: YEREVAN — June 22–27
 
-> **Why**: World's first Christian nation (301 AD), oldest continuously inhabited capital in the world (founded 782 BCE — older than Rome), pink-tuff architecture, formidable cognac, Mt Ararat looming over everything.
+> **Why**: World's first Christian nation (301 AD), oldest continuously inhabited capital (founded 782 BCE — older than Rome), pink-tuff architecture, formidable cognac, Mt Ararat looming over everything.
 
-### June 21 (Sun) — Arrive Yerevan
+### June 22 (Mon) — Gyumri → Arrive Yerevan
+- Morning marshrutka Gyumri → Yerevan (~1.5–2hrs, ~500–700 AMD). Arrive late morning.
 - Check in around **Republic Square** (Hraparak) area
+- Afternoon: **Genocide Memorial & Museum** (Tsitsernakaberd) — somber but essential; Armenia's defining 20th-century trauma. Walk up the hill, eternal flame, 12 basalt slabs.
 - Evening: Republic Square **dancing fountains** show (21:00–23:00 nightly, summer)
-- 🍴 **Late dinner**: **Tavern Yerevan** (multiple branches, classic khorovats + lavash + cheese plate) or street **lahmajun** stand
+- 🍴 **Dinner**: **Tavern Yerevan** (classic khorovats + lavash) or street **lahmajun** stand
 
-### June 22 (Mon) — Yerevan City
+### June 23 (Tue) — Yerevan City
 - **Cascade Complex** + **Cafesjian Center for the Arts** (modernist sculpture museum built into stairs)
-- **Matenadaran** (manuscript repository, 17,000+ ancient texts — concept: medieval library where Armenia preserved Hellenistic and early Christian knowledge through Persian/Ottoman/Soviet eras)
-- **Vernissage Market** (weekends best — handicrafts, Soviet militaria, carpets, duduk pipes)
-- Evening: **Saryan Street wine bars** — try Areni, Vayots Dzor wines (Armenia is the *other* claimant to "world's oldest wine" — 6,100-year-old winery found at Areni-1 cave)
-- 🍴 **Dinner**: **Sherep** (modernist Armenian, open kitchen, must-book) or **Lavash Restaurant** (touristy but solid)
+- **Matenadaran** (manuscript repository, 17,000+ ancient texts — medieval library where Armenia preserved Hellenistic and early Christian knowledge through Persian/Ottoman/Soviet eras)
+- **Vernissage Market** (handicrafts, Soviet militaria, carpets, duduk pipes)
+- **Ararat Brandy Factory tour** — book ahead. Concept: cognac so good Churchill ordered cases of it, sealed off from Western markets for 70 years.
+- Evening: **Saryan Street wine bars** — try Areni, Vayots Dzor wines
+- 🍴 **Dinner**: **Sherep** (modernist Armenian, open kitchen, must-book) or **Lavash Restaurant**
 
-### June 23 (Tue) — Garni + Geghard
+### June 24 (Wed) — Garni + Geghard
 - **Garni Temple** (1st century AD, only Greco-Roman colonnaded temple in former USSR — pre-Christian Armenia)
 - **Symphony of Stones** in Azat Gorge below Garni — natural basalt column formations like a frozen organ pipe
 - **Geghard Monastery** (UNESCO, partially carved INTO the cliff — 4th century rock-hewn churches with extraordinary acoustic chambers)
@@ -410,7 +426,7 @@ Baku (AZ) → [fly ~$60] Tbilisi (GE, brief stopover) → [marshrutka] Yerevan (
 > | Tour (Viator/GetYourGuide) | ~$27–40pp | [Viator from $26.67](https://www.viator.com/tours/Yerevan/Private-Day-Trip-from-Yerevan-to-Garni-Temple-and-Geghard-Monastery/d22425-34487P17) — worth it only if you want a guide |
 > - Entrance: Garni = 1,500 AMD (~$4); Geghard = **free**
 
-### June 24 (Wed) — Khor Virap + Areni + Noravank
+### June 25 (Thu) — Khor Virap + Areni + Noravank
 > **🟡 Long day — pick one option**:
 > - **A: All three with driver** ✅ recommended — Khor Virap (40km) + Areni (120km) + Noravank (~130km) all on same southern road. ~10hrs, need a car.
 > - **B: Khor Virap only** — half-day marshrutka, back by 14:00. Simple, cheap.
@@ -428,11 +444,11 @@ Baku (AZ) → [fly ~$60] Tbilisi (GE, brief stopover) → [marshrutka] Yerevan (
 > | **Viator small group** | ~$55–70pp | [Khor Virap + Areni + Noravank](https://www.tripadvisor.com/AttractionProductReview-g293932-d15830097-Group_Day_tour_Khor_Virap_Areni_Noravank_2025-Yerevan.html) — group rate, English guide, includes wine tasting |
 > | Khor Virap only by marshrutka | ~$3 total | Marshrutka from Yerord Mas station → Artashat (~500 AMD), taxi to Khor Virap (~3km, ~1,500 AMD). Back same way. |
 
-### June 25 (Thu) — Lake Sevan
+### June 26 (Fri) — Lake Sevan
 - **Sevanavank Monastery** (9th century) on Sevan Peninsula
 - Lake at 1,900m elevation — one of the world's largest high-altitude lakes
 - 🍽️ **Lunch**: fresh **ishkhan** (Sevan trout) or **kololik** (fish meatballs) at lakeside restaurant
-- ⏰ **06:00 (Jun 26) — Turkey vs USA** — set alarm.
+- ⏰ **06:00 — Turkey vs USA** — set alarm (wake up, watch, then head to Sevan).
 
 > **💸 Lake Sevan — DIY is easy and very cheap**:
 > | Option | ~Price | Notes |
@@ -441,13 +457,6 @@ Baku (AZ) → [fly ~$60] Tbilisi (GE, brief stopover) → [marshrutka] Yerevan (
 > | Return from lake | ~$2 | Taxi from Sevanavank to Sevan bus stop (~1,500 AMD, 20 min) → marshrutka back to Yerevan |
 > | Organised tour | ~$30–50pp | Not worth it — DIY is trivial here |
 > - **Tip**: marshrutkas fill before departing. Sit in whichever van has the most people already in it.
-
-### June 26 (Fri) — Yerevan Day 2 / Flex
-- **Ararat Brandy Factory tour** — book ahead. Concept: cognac so good Churchill ordered cases of it, sealed off from Western markets for 70 years
-- **Genocide Memorial & Museum** (Tsitsernakaberd) — somber but important; Armenia's defining 20th-century trauma
-- **Blue Mosque** (only mosque in Yerevan, Persian, beautiful tilework — closed for renovation in 2024, check status)
-- **Republic Square at night** (dancing fountains again — the show is iconic)
-- 🍴 **Last Yerevan dinner**: street food **shawarma** at **Mr Gyros** + **Areni 1** wine bar after
 
 ### June 27 (Sat) — ✈️ Fly Yerevan → Batumi
 - Morning flight from Zvartnots (EVN) → Batumi (BUS), ~$80–120
@@ -572,7 +581,7 @@ Baku (AZ) → [fly ~$60] Tbilisi (GE, brief stopover) → [marshrutka] Yerevan (
 | Altyn Emel needs 2 days for Aktau Mountains | ✅ June 9–10 |
 | Turkey Match 1 (Jun 13) at good time | ✅ 8pm Baku |
 | Turkey Match 2 (Jun 19) at good time | ✅ 8pm Tbilisi |
-| Turkey Match 3 (Jun 25) — early hours, set alarm | ⏰ 06:00 Yerevan |
+| Turkey Match 3 (Jun 25) — early hours, set alarm | ⏰ 06:00 Jun 26, Yerevan → then Sevan day |
 | Aktau flight legitimate (World Ticket Ltd) | ✅ IATA accredited, founded 2002 |
 
 ---
