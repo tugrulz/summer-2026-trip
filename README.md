@@ -9,8 +9,8 @@
 ## 🗺️ Route Overview
 
 ```
-Bishkek (KG) → [tour] Issyk-Kul + Song-Kul (KG) → Cholpon-Ata (KG)
-→ [bus $7] Almaty (KZ) → [overnight] Altyn Emel (KZ) → [day trip] Charyn Canyon (KZ)
+Bishkek (KG) → [tour] Issyk-Kul + Song-Kul (KG)
+→ [bus $7] Almaty (KZ) → [day trip] Altyn Emel Singing Dunes (KZ) → [day trip] Charyn Canyon (KZ)
 → [fly £48] Aktau (KZ) → [fly] Baku (AZ) → [overnight train] Ganja (AZ)
 → [marshrutka, Red Bridge border] Tbilisi (GE) → [marshrutka] Gyumri (AM) → [marshrutka] Yerevan (AM)
 → [fly ~$80] Batumi (GE) → [day trip] Kutaisi (GE) → [Sarpi border] Rize (TR) → Trabzon (TR)
@@ -41,7 +41,7 @@ Baku (AZ) → [fly ~$60] Tbilisi (GE, brief stopover) → [marshrutka] Yerevan (
 | Section | Nights | Est. Cost |
 |---------|--------|-----------|
 | 🇰🇬 Kyrgyzstan (incl. $450 tour) | 10 | ~$780 |
-| 🇰🇿 Almaty + Altyn Emel | 6 | ~$420 |
+| 🇰🇿 Almaty (Central Almaty Meridian Apt) | 7 | ~$420 |
 | 🇰🇿 Aktau | 2 | ~$160 |
 | ✈️ Almaty → Aktau | — | £48 (~$60) |
 | ✈️ Aktau → Baku | — | ~$80 |
@@ -141,49 +141,59 @@ Baku (AZ) → [fly ~$60] Tbilisi (GE, brief stopover) → [marshrutka] Yerevan (
 | 4 | May 30 (Sat) | **Song-Kul** alpine lake (3,016m) + nomad yurt camp + eagle hunting demo |
 | 5 | May 31 (Sun) | **Karakol Sunday Animal Market** (livestock auction, the real deal — go before 09:00) → drive back via north shore |
 
-> **May 31 — Cholpon-Ata stopover**: Ask tour to drop you off. Visit **Bronze Age Petroglyph open-air museum** (1,500+ stones, 800 BCE) before tour continues to Bishkek. Overnight Cholpon-Ata (~$10–15).
+> **May 31 — Return to Bishkek**: Tour returns direct to Bishkek (Cholpon-Ata stopover skipped). Arrive evening.
 
-### June 1 (Mon) — Cholpon-Ata → Bishkek
-- Bus Cholpon-Ata → Bishkek (~3.5hrs, ~$3–4)
-- Afternoon: rest, evening at **Sierra Coffee** or **Cyclone craft beer**
+### May 31 (Sun, evening) — Arrive Bishkek
+- Tour drops you back in Bishkek
+- Rest, dinner near hotel — **Sierra Coffee** or **Cyclone craft beer**
 
-### June 2 (Tue) — Bishkek Day 1
+### June 1 (Mon) — Bishkek City Day 1
 - **State History Museum** (Soviet legacy, eagle hunting exhibits), Victory Square, Dubovy Park (sculpture garden)
 - 🏛️ **Concept**: Bishkek = open-air Soviet architecture textbook. Look for the giant Lenin statue behind the museum (now turned to face away from Ala-Too)
 - 🍴 **Dinner**: **Supara Ethno Complex** (yurt-restaurant, traditional cuisine + folklore performance) or **Tubeteika** (modern Kyrgyz)
 
-### June 3 (Wed) — Ala-Archa National Park
+### June 2 (Tue) — Ala-Archa National Park
 - 40km south, shared taxi (~$5 each way) — leave 07:00 to beat heat
 - **Ak-Sai Glacier** trail (6–7hrs, demanding) or valley floor hike (3–4hrs, easy)
 - Evening: **Sky Bar** at Bishkek Park rooftop for views
 
-### June 4 (Thu) — Bishkek Day 3 + Depart
+### June 3 (Wed) — Bishkek City Day 2 + Depart
 - Morning: **Dordoi Bazaar** (massive container market, world's largest by some measures) or **Kyrgyz National Museum of Fine Arts**
 - Lunch: **Ushtobe** (Korean Kyrgyz fusion) or **Boorsok Cafe** (cheap traditional)
 - **⏰ 18:00 — Last bus Bishkek → Almaty** (New Bus Station, Platform 11, 600 som ~$7, ~5–6hrs incl. Korday border)
-- Arrive Almaty ~23:00
+- Arrive Almaty ~23:00–midnight
 
 ---
 
-## 🇰🇿 KAZAKHSTAN: ALMATY — June 5 → June 10
+## 🇰🇿 KAZAKHSTAN: ALMATY — June 4 → June 10
 
 > **Why**: Tree-lined Soviet planned city at 700m beneath the Tian Shan mountains, surprisingly hip café scene, gateway to wild landscapes.
 
-### June 5 (Fri) — Almaty City Day
+> **Accommodation**: 🏠 [Central Almaty Meridian Apartment](https://www.booking.com/hotel/kz/central-almaty-meridian.html) — city centre, confirmed.
+
+### June 4 (Thu) — Almaty City Day 1
 - **Green Bazaar** (Zelyony, fruit/veg/horse meat counters), **Panfilov Park** + **Zenkov Cathedral** (one of world's tallest wooden buildings, no nails), **Central State Museum**
 - **Kok-Tobe** cable car for sunset views
 - 🍽️ **Food**: *beshbarmak* (national dish, boiled meat over flat noodles), *baursak* (fried dough), *kazy* (horse sausage), *shubat* (camel milk)
 - 🍴 **Dinner**: **Daredzhani** (Georgian, the city favourite — book ahead), **Kishlak** (Uzbek, central Asia greatest hits), **AB Restaurant** (modern Kazakh tasting menu, splurge)
 
-### June 6 (Sat) — Almaty Weekend
-- **Gorky Park** (shashlik smoke + Saturday families), **Arbat / Zhibek Zholy** pedestrian street
+### June 5 (Fri) — Almaty City Day 2
+- **Arasan Public Baths** (Soviet-era public banya, ~$10 — local institution, very different from Tbilisi sulphur baths; three pools: Russian, Finnish, Eastern)
+- **Barakholka Bazaar** (vast local market — Kazakh rugs, clothing, Soviet goods, cheaper than Green Bazaar)
+- **Korean lunch** (Koryo-saram cuisine — Korean adapted to Central Asia over generations; unique to KZ/KG. Try *kuksi*, *kimchi plov*, *dog-meat soup* if adventurous)
 - Coffee scene: **Coffeedelia**, **Bookstore Coffee**, **Daily Coffee** (Almaty has a real third-wave culture)
 - Evening: craft beer at **Bochonok** or live jazz at **Shakespeare Pub**
 
-### June 7 (Sun) — Day Trip Choice
-- **Option A**: **Big Almaty Lake** (turquoise alpine reservoir, 2,510m, taxi day trip ~$40 — military base nearby, do NOT stray off road)
-- **Option B**: **Medeu** (highest skating rink in the world) + **Shymbulak** ski resort cable car (summer hiking)
-- **Option C**: **Tamgaly Petroglyphs** (UNESCO, 170km west) if interested in Bronze Age rock art
+### June 6 (Sat) — Almaty Weekend
+- **Gorky Park** (shashlik smoke + Saturday families — best day of the week here), **Arbat / Zhibek Zholy** pedestrian street
+- **Almaty I Train Station** (beautiful pre-Soviet wooden building — architectural gem)
+- **Traditional Music Museum** (1908 wooden building, dombra, kobyz, occasional live performance)
+- Evening: explore the city's restaurant scene — one of the best in Central Asia
+
+### June 7 (Sun) — Big Almaty Lake + Medeu
+- Morning: **Big Almaty Lake** (30km south, taxi ~$40 return — turquoise glacial reservoir at 2,510m, stunning Tian Shan backdrop; military zone nearby, stay on the road)
+- Afternoon: **Medeu** (world's highest-altitude outdoor ice rink, 1,690m) + **Shymbulak** cable car (up to 3,200m, summer hiking, panoramic views)
+- Easy combo: both sites are on the same road south of the city
 
 ### June 8 (Mon) — Charyn Canyon
 - ~196km east (~2.5hrs). No public transport — tour or car required.
@@ -198,39 +208,28 @@ Baku (AZ) → [fly ~$60] Tbilisi (GE, brief stopover) → [marshrutka] Yerevan (
 > | Private car (split 4 people) | ~$20–25pp | Hotel/hostel can arrange ~$80–100/car |
 > | DIY marshrutka | cheapest but hard | Bus toward Kegen, get dropped at Charyn turnoff → 10km walk to entrance. Not recommended. |
 
-### June 9 (Tue) — Altyn Emel Day 1
-- ~200km east (~3hrs). Jeep/guided tour required.
-- **Singing Dunes** (1.5km × 120m sand mountain that hums in wind) — visit at golden hour, ~17:00–19:00
-- Overnight in **park guesthouse** in Basshi village (~$20–30)
+### June 9 (Tue) — Altyn Emel Day Trip (Singing Dunes)
+- ~200km east (~3hrs). Jeep/guided tour required. **1-day trip — no overnight.**
+- Depart Almaty ~07:00 → arrive park ~10:00
+- **Singing Dunes** (1.5km × 120m sand mountain that "hums" in the wind — one of very few in the world) — aim for late afternoon light ~16:00–18:00
+- Return Almaty ~19:00–20:00
 
-> **💸 Cheap 2-day Altyn Emel group tour options** (commercial operators are $500–700pp for 2 days; budget options below):
+> **💸 1-day Altyn Emel tour options**:
 >
 > | Option | ~Price | Notes |
 > |--------|--------|-------|
-> | **Almaty Backpackers Hostel** community tour | **cheapest** | Russian-speaking guide, share costs with hostel residents — call/visit on arrival, ask for next departure |
-> | **Caravanistan** via Asya & Alexey | ~$200–300pp | Long-running, English OK, message via [caravanistan.com](https://caravanistan.com) forum |
-> | **Steppe Spirit** | mid | Local Russian-language operator, advertises on Instagram, will respond in English |
-> | **KazGuidedTours** group rate | ~$300–400pp | Email for actual group price (website lists private only at $700+) |
-> | **GetYourGuide / Viator small-group jeep** | ~$500pp | English-speaking, slick booking, premium for the convenience |
-> | **DIY car rental + share** | ~$150pp / 4ppl | Cheapest if you find 3 others. Standard car OK to Basshi; need 4WD inside park (rent locally) |
-> | **1-day tour only** | $225–250 | Skips Aktau Mountains — half the experience, half the price |
->
-> **Tactics for solo budget travellers**:
-> - Post on **Caravanistan forum** "Looking for travel partners — Altyn Emel Jun 9–10" 1–2 weeks ahead
-> - Facebook group **"Backpackers in Kazakhstan"** — active, people seeking trip-mates
-> - **Almaty Backpackers Hostel** (and Tree of Life Hostel) noticeboard on arrival
-> - **Park entry fee**: 1,050 KZT (~$2–3) per day, paid separately
+> | **GetYourGuide 1-day small-group** | ~$80–100pp | [Almaty: Singing Dunes Altyn Emel Day Trip](https://www.getyourguide.com/almaty-city-l1414/almaty-singing-dunes-aktau-mountains-altyn-emel-day-trip-t683384/) — pickup included |
+> | **Almaty Backpackers Hostel** community | **cheapest** | Ask on arrival — share costs with other guests |
+> | **KazGuidedTours** | ~$50–80pp | [kazguidedtours.com](https://kazguidedtours.com) — email for group rate |
+> | **DIY car share** | ~$30–40pp / 4ppl | Find travel partners at hostel/Facebook group "Backpackers in Kazakhstan" |
+> - **Park entry**: 1,050 KZT (~$2–3), paid at gate separately
+> - ⚠️ Aktau & Katutau Mountains (the park's geological highlight) require an overnight — skipped on this 1-day version. The Singing Dunes alone justify the trip.
 
-### June 10 (Wed) — Altyn Emel Day 2 + Fly Aktau
-- **Aktau & Katutau Mountains** — striated white/pink/blue chalk badlands, 400 million-year-old Tethys ocean bed (the park's real highlight)
-- Return Almaty ~14:00–15:00 → airport
+### June 10 (Wed) — Morning Free + Fly Aktau
+- Morning: relax, last Almaty coffee, pick up any snacks for Caspian leg
+- Pack, airport transfer
 - **⏰ 19:30 🛫 Almaty → Aktau** | World Ticket Ltd via Expedia — **£47.90** (FlyArystan operated)
 - Arrive Aktau ~21:30
-
-> **🟡 Altyn Emel timing — pick one option**:
-> - **A: Keep 2 days as planned** ✅ recommended — leave park 12:30, drive to Almaty (2.5hrs), pack and head to airport. Tight but workable. Have bag pre-packed at Almaty hotel left luggage.
-> - **B: 1 day only** — see Singing Dunes at golden hour Day 1, miss Aktau Mountains. Frees a day for Big Almaty Lake/Kolsai. Loses the park's geological highlight.
-> - **C: 2 days but fly next morning** — overnight Almaty after park, fly Aktau on Jun 11. Adds night in Almaty, but Aktau then becomes a single half-day before flight — tight on Mangyshlak side instead.
 
 > **Why Aktau?**: Direct Almaty → Baku flies at 02:00. Aktau adds the unique **Mangyshlak Peninsula** AND gives civilised flight times.
 
@@ -576,9 +575,9 @@ Baku (AZ) → [fly ~$60] Tbilisi (GE, brief stopover) → [marshrutka] Yerevan (
 | Rize before Trabzon, no backtracking | ✅ Rize → Trabzon heading west |
 | No Armenia → Turkey crossing | ✅ Yerevan → fly Batumi → land border |
 | Tour on a Wednesday | ✅ May 27 = Wednesday |
-| Bishkek → Almaty last bus 18:00 | ✅ June 4 departure |
+| Bishkek → Almaty last bus 18:00 | ✅ June 3 departure |
 | Weekend in Almaty | ✅ June 6–7 in city |
-| Altyn Emel needs 2 days for Aktau Mountains | ✅ June 9–10 |
+| Altyn Emel (1-day, Singing Dunes) | ✅ June 9 day trip |
 | Turkey Match 1 (Jun 13) at good time | ✅ 8pm Baku |
 | Turkey Match 2 (Jun 19) at good time | ✅ 8pm Tbilisi |
 | Turkey Match 3 (Jun 25) — early hours, set alarm | ⏰ 06:00 Jun 26, Yerevan → then Sevan day |
@@ -645,7 +644,7 @@ You'll hit **3°C nights at Song-Kul (3,000m)** AND **35°C+ days in Baku/Ganja*
 | City | Best area | Avoid | Notes |
 |------|-----------|-------|-------|
 | **Bishkek** | Around **Ala-Too Square** / Erkindik | Far suburbs, west of Osh Bazaar at night | Hostels: Apple Hostel, Boutique Bishkek |
-| **Almaty** | **Almaly** district / between Panfilov & Kok-Tobe | Above Al-Farabi (sketchy), far north | Boutique: Rixos, mid: Kazakhstan Hotel |
+| **Almaty** | **Almaly** district / between Panfilov & Kok-Tobe | Above Al-Farabi (sketchy), far north | ✅ **Central Almaty Meridian Apartment** (booked) |
 | **Aktau** | **Microdistrict 1–2** seafront | Inland microdistricts (no character) | Walk to beach, address format is weird |
 | **Baku** | **İçəri Şəhər (Old City)** or **Nizami Street** | Yasamal far, industrial east | Old City = atmospheric stone alleys |
 | **Ganja** | Around **Heydar Aliyev Park** / center | — | One night only; any central guesthouse |
