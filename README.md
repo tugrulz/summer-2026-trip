@@ -2,7 +2,7 @@
 
 **Bishkek → Almaty → Aktau → Baku → Ganja → Tbilisi → Yerevan → Batumi → Rize → Trabzon**
 
-*May 26 – ~July 4, 2026 | ~40 days | Solo budget travel*
+*May 26 – July 7, 2026 | ~43 days | Solo budget travel*
 
 ---
 
@@ -50,8 +50,9 @@ Baku (AZ) → [fly ~$60] Tbilisi (GE, brief stopover) → [marshrutka] Yerevan (
 | 🇦🇲 Yerevan | 6 | ~$330 |
 | ✈️ Yerevan → Batumi | — | ~$80–120 |
 | 🇬🇪 Batumi (+ Kutaisi day trip) | 3 | ~$170 |
-| 🇹🇷 Turkey (Rize + Trabzon) | 5 | ~$280 |
-| **TOTAL (excl. flight home)** | **~40** | **~$2,750–2,900** |
+| 🇹🇷 Turkey (Rize + Trabzon) | 8 | ~$420 |
+| ✈️ Trabzon → Ankara (night flight, Jul 7) | — | ~$30–50 |
+| **TOTAL (excl. onward from Ankara)** | **~43** | **~$2,920–3,090** |
 
 ---
 
@@ -504,7 +505,7 @@ Baku (AZ) → [fly ~$60] Tbilisi (GE, brief stopover) → [marshrutka] Yerevan (
 
 ---
 
-## 🇹🇷 TURKEY: RIZE — June 30 → July 2
+## 🇹🇷 TURKEY: RIZE — June 30 → July 3
 
 > **Why**: Heart of Turkey's tea industry (60% of national tea grown in this province), green Black Sea hills, Hemshin/Laz cultural mix, gateway to high-altitude yayla pastures and Kaçkar mountain valleys.
 
@@ -514,49 +515,89 @@ Baku (AZ) → [fly ~$60] Tbilisi (GE, brief stopover) → [marshrutka] Yerevan (
 - **Rize Museum** (small, Pontic/Ottoman history)
 - 🍽️ **First Turkish dinner**: **muhlama** (cornmeal + cheese fondue, Black Sea staple), **hamsi tava** (anchovies in cornmeal pan-fry), Rize tea after
 
-### July 1 (Wed) — Tea + Inland Choice
-- **Çay Bahçesi** (Tea Garden) on the hills behind town — proper Rize tea ritual (small glass, hourglass shape, no milk)
-- **Atatürk House Museum**
-- **Choice of inland excursion**:
-  - **Ayder Plateau** (~70km inland, 1,400m alpine yayla — thermal baths, meadows, Kaçkar peaks, Hemshin culture)
-  - **Fırtına Valley** (~45km inland — Ottoman stone bridges, dense rainforest, Şenyuva hanging bridge, Zil Castle)
-  - **Both** — Fırtına Valley is on the road to Ayder; doable in one long day
+### July 1 (Wed) — Ayder Plateau Day Trip
+- **Ayder Yaylası** (~70km inland, ~1.5hrs) — alpine yayla at 1,400m
+- **Thermal baths (kaplıca)** — relax in highland mineral hot springs
+- Meadow walks, Hemshin villages, Kaçkar Mountains views
+- Hemshin cuisine: *muhlama*, *pide*, mountain honey
+- Dolmuş Rize → Çamlıhemşin → Ayder (~₺45 each way)
+- Return Rize evening
+- 🍴 **Dinner in Rize**: late muhlama + Rize tea
 
-> **💸 Ayder / Fırtına Valley options**:
+### July 2 (Thu) — Fırtına Valley Day Trip
+- **Fırtına Valley** (~45km inland, ~1hr) — dense temperate rainforest gorge
+- **Ottoman stone bridges** (centuries-old hump-back bridges over the river)
+- **Şenyuva hanging bridge**, **Çat village**, **Zil Castle** (clifftop medieval fortress)
+- **Optional rafting** on the Fırtına River (~₺200–400, Class III/IV)
+- **Çay Bahçesi** (Tea Garden) afternoon on return for proper Rize tea
+- Return Rize evening
+
+> **💸 Ayder / Fırtına Valley DIY vs Tour**:
 > | Option | ~Price | Notes |
 > |--------|--------|-------|
-> | **DIY dolmuş** ✅ | **~$2–3 total** | Dolmuş Rize → Çamlıhemşin (~₺30, 1hr) → dolmuş Çamlıhemşin → Ayder (~₺15, 30min). Return same way. Check departure times at Rize otogar — not always frequent. |
-> | **Group tour from Rize/Trabzon** | ~€47–50pp | [GetYourGuide](https://www.getyourguide.com/trabzon-l32545/rize-ayder-tour-kackar-mountains-firtina-valley-t473523/) — 9hrs, Fırtına + Ayder combined, pickup from Trabzon or Rize hotels |
-> | **Minister Tours / Zenofon Tours** | ~€46–50pp | Local Trabzon-based, English guides. [ministertours.com](https://www.ministertours.com/en/trabzon/firtina-valley-ayder-highland), [zenofontours.com](https://www.zenofontours.com/ayder-tour-daily-group-tour-from-trabzon-t109) |
-> | Private taxi | ~₺1,500–2,000 | Negotiate at Rize otogar. Good if 3+ people splitting |
-> ⚠️ Rafting/zipline in Fırtına Valley is extra (~₺200–400) — optional add-on not included in tour price.
+> | **DIY dolmuş** ✅ | **~$3–5/day** | Rize otogar → Çamlıhemşin (~₺45, 1hr) → onward dolmuş to Ayder or Fırtına. Frequency drops afternoon — check return times. |
+> | **Group tour combining both** | ~€47–50pp | [GetYourGuide combo](https://www.getyourguide.com/trabzon-l32545/rize-ayder-tour-kackar-mountains-firtina-valley-t473523/) — 9hrs, Fırtına + Ayder, pickup. Worth it if you only want 1 day not 2. |
+> | **Minister / Zenofon Tours** | ~€46–50pp | Local Trabzon, English guides. [ministertours.com](https://www.ministertours.com/en/trabzon/firtina-valley-ayder-highland), [zenofontours.com](https://www.zenofontours.com/ayder-tour-daily-group-tour-from-trabzon-t109) |
+> | Private taxi | ~₺1,500–2,000 | Worth it if 3–4 people splitting |
 
-> **⚽ Round of 16 (Jul 1–4)**: If Turkey qualify, watch the knockout match in any tea garden / kiraathane in Rize — it'll be a packed local affair.
+> **⚽ Round of 16 (Jul 1–4)**: If Turkey qualifies, you'll be in Rize or Trabzon for it. Watch in a tea garden / *kıraathane* — packed local affair, unforgettable atmosphere.
 
-### July 2 (Thu) — Rize → Trabzon
-- Morning: any unfinished Rize sights, last muhlama lunch
+### July 3 (Fri) — Rize → Trabzon (Morning)
+- Morning: any unfinished Rize, last muhlama lunch, final çay
 - **Dolmuş Rize → Trabzon** (~66km, ~1hr, ~₺40)
+- Arrive Trabzon midday, check in, start exploring (see Trabzon Day 1 below)
 
 ---
 
-## 🇹🇷 TURKEY: TRABZON — July 2 → ~July 4
+## 🇹🇷 TURKEY: TRABZON — July 3 → July 7
 
 > **Why**: 2,500-year-old port (Byzantine Empire of Trebizond capital), Black Sea cuisine, gateway to **Sümela Monastery** carved into a vertical cliff at 1,200m.
 
-### July 2 (Thu) — Trabzon Arrival
+### July 3 (Fri, PM) — Trabzon Arrival + Old Town
 - **Trabzon Aya Sofya** (Byzantine, 13th century, frescoes inside) — different from Istanbul's; this one was a Komnenos-era cathedral
-- **Boztepe** hilltop for city + Black Sea views
-- **Atatürk Köşkü** (Russian-built mansion, Atatürk's summer residence — restored)
-- 🍴 **Dinner**: **hamsi tava** + **kuymak** (the local muhlama) at any **Bordo Mavi** or **Cemilusta** branch — Trabzon takes its anchovies seriously
+- **Çarşı district** — Ottoman covered bazaar (Bedesten), tea houses, traditional shops
+- **Atatürk Alanı** (main square) — evening stroll
+- 🍴 **First Trabzon dinner**: **hamsi tava** + **kuymak** at **Bordo Mavi** or **Cemilusta** — Trabzon takes its anchovies seriously
 
-### July 3 (Fri) — Sümela Monastery
-- 50km south (~1hr), shared minibus from Trabzon **Russian Bazaar** area or Otogar (~₺50 RT)
-- **Sümela Monastery** — Byzantine monastery clinging to a vertical cliff face at 1,200m, founded 386 AD. Frescoes in the rock church are partially restored (some vandalised). The approach hike from the parking area is steep but short.
-- Optional: **Uzungöl** (~100km south, alpine glacial lake — touristy but picturesque) if Sümela ends early
+### July 4 (Sat) — Sümela Monastery
+- ~45km south (~1hr), shared minibus from **Russian Bazaar** area or Trabzon Otogar (~₺50 RT)
+- **Sümela Monastery** — Byzantine monastery clinging to a vertical cliff face at 1,200m, founded 386 AD. Frescoes in the rock church are partially restored.
+- The approach is a steep ~30min uphill walk from the lower car park
+- Lunch in **Maçka** on the way back — try *fındıklı muhlama* (hazelnut variant)
+- Return Trabzon by ~17:00
+- 🍴 **Evening**: çay garden + hamsi dinner
 
-### July 4 (Sat) — Last Day + Fly Home
-- Morning: **Çarşı Camii** + **Trabzon Castle**, last hamsi
-- **🛫 Fly home from Trabzon Airport (TZX)** → Istanbul (THY/Pegasus connections to Europe)
+### July 5 (Sun) — Uzungöl
+- ~100km south (~2hrs, full day trip) — shared minibus from Trabzon Otogar (~₺80 RT)
+- **Uzungöl** — alpine glacial lake at 1,100m, surrounded by forested mountains and traditional wooden mosques
+- Walk around the lake (~1hr loop), lunch by the water (trout is the local specialty)
+- Optional: short hike up to viewpoint above the lake for the postcard shot
+- Touristy but genuinely beautiful — go early to avoid the worst crowds
+- Return Trabzon late afternoon
+
+### July 6 (Mon) — Boztepe + Atatürk Köşkü + Museums
+- **Atatürk Köşkü** (Russian-built mansion, Atatürk's summer residence — restored, beautiful gardens, ~₺30 entry)
+- **Boztepe Hill** — cable car or taxi up for panoramic city + Black Sea views, also a good çay garden setting
+- **Trabzon Museum (Kostaki Mansion)** — Belle Époque house museum, beautiful interiors
+- **Trabzon Castle ruins** — Byzantine walls scattered through the old district
+- Optional: **Sera Gölü** (Sera Lake, ~17km west of city) — smaller and quieter than Uzungöl, half-day trip
+- 🍴 **Last big dinner**: full Black Sea spread — *hamsili pilav*, *kuymak*, *karadeniz pidesi*, *laz böreği* dessert
+
+### July 7 (Tue) — Last Day + ✈️ Night Flight to Ankara
+- Morning: souvenir shopping — **Trabzon hazelnut products** (chocolates, paste), **Rize tea** (last chance for the proper stuff), **Anzer honey** if you can find it
+- Optional: **Çakırgöl Plateau** (~1hr south) for a final highland fix, or relaxed day in town
+- Last hamsi lunch at **Cemilusta**
+- Pack, last çay at Atatürk Alanı
+- **🛫 Evening flight Trabzon (TZX) → Ankara (ESB)** — Turkish Airlines / Pegasus / AnadoluJet
+  - ~1.5hrs flight time
+  - Book ~6–8 weeks ahead, ~₺800–1,500 ($30–50)
+  - TZX is small — arrive 60–90 min before departure
+
+> **TZX → ESB flight tips**:
+> - **Turkish Airlines** typically has the most reliable evening departures
+> - **Pegasus** + **AnadoluJet** are cheaper, both fly the route
+> - Watch for **late-night flights** (21:00–23:00) if you want a final full day in Trabzon
+> - Trabzon-Çarşamba (TZX) is 6km east of city, ~₺200 taxi or [HAVAŞ shuttle](https://havas.com.tr) from city centre
 
 > **Local Turkey tips**:
 > - **Tourist e-visa** if needed: [evisa.gov.tr](https://evisa.gov.tr)
@@ -582,6 +623,8 @@ Baku (AZ) → [fly ~$60] Tbilisi (GE, brief stopover) → [marshrutka] Yerevan (
 | Turkey Match 2 (Jun 19) at good time | ✅ 8pm Tbilisi |
 | Turkey Match 3 (Jun 25) — early hours, set alarm | ⏰ 06:00 Jun 26, Yerevan → then Sevan day |
 | Aktau flight legitimate (World Ticket Ltd) | ✅ IATA accredited, founded 2002 |
+| End in Trabzon, fly Ankara | ✅ July 7 evening flight TZX → ESB |
+| Time in Rize + Trabzon | ✅ Rize 3 nights + Trabzon 4 nights = comfortable pace |
 
 ---
 
@@ -592,7 +635,7 @@ Baku (AZ) → [fly ~$60] Tbilisi (GE, brief stopover) → [marshrutka] Yerevan (
 - [ ] **Almaty → Aktau flight** (£48 deal — book via [Expedia](https://expedia.com), World Ticket Ltd as agent)
 - [ ] **Aktau → Baku flight** (Buta Airways or AZAL — book direct)
 - [ ] **Yerevan → Batumi flight** (Jun 27 — Georgian Airways / FlyOne / Wizz; check by ~April)
-- [ ] **Trabzon → home** flight (TZX → Istanbul connections via Turkish/Pegasus)
+- [ ] **Trabzon → Ankara** flight, **July 7 evening** (TZX → ESB) — Turkish Airlines / Pegasus / AnadoluJet, ~₺800–1,500
 - [ ] **Azerbaijan e-visa** (3 working days — [evisa.gov.az](https://evisa.gov.az), $26)
 - [ ] **Turkey e-visa** if needed (most EU/UK get 90 days free; check [evisa.gov.tr](https://evisa.gov.tr))
 - [ ] **Travel insurance** with adventure activities cover (mountains, motorcycle/quad, hiking) — [WorldNomads](https://worldnomads.com), [SafetyWing](https://safetywing.com)
