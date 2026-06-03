@@ -185,19 +185,23 @@ Baku (AZ) → [fly ~$60] Tbilisi (GE, brief stopover) → [marshrutka] Yerevan (
 - Coffee scene: **Coffeedelia**, **Bookstore Coffee**, **Daily Coffee** (Almaty has a real third-wave culture)
 - Evening: craft beer at **Bochonok** or live jazz at **Shakespeare Pub**
 
-### June 6 (Sat) — Almaty Weekend
+### June 6 (Sat) — Almaty City Day + Meet Friend
+- 👥 **Meeting a local friend today** — keep it relaxed and city-based
 - **Gorky Park** (shashlik smoke + Saturday families — best day of the week here), **Arbat / Zhibek Zholy** pedestrian street
 - **Almaty I Train Station** (beautiful pre-Soviet wooden building — architectural gem)
 - **Traditional Music Museum** (1908 wooden building, dombra, kobyz, occasional live performance)
-- Evening: explore the city's restaurant scene — one of the best in Central Asia
+- Evening: explore the city's restaurant scene together — one of the best in Central Asia
 
-### June 7 (Sun) — Big Almaty Lake + Medeu
+### June 7 (Sun) — Big Almaty Lake + Medeu *(easy day trip — bring friend)*
+- 👥 **Easy companion day** — scenic, no long drive, no guide required
 - Morning: **Big Almaty Lake** (30km south, taxi ~$40 return — turquoise glacial reservoir at 2,510m, stunning Tian Shan backdrop; military zone nearby, stay on the road)
 - Afternoon: **Medeu** (world's highest-altitude outdoor ice rink, 1,690m) + **Shymbulak** cable car (up to 3,200m, summer hiking, panoramic views)
-- Easy combo: both sites are on the same road south of the city
+- Easy combo: both sites on the same road south — total ~4–5hrs, relaxed pace
 
-### June 8 (Mon) — Charyn Canyon
-- ~196km east (~2.5hrs). No public transport — tour or car required.
+> ⚠️ **Don't do Charyn or Altyn Emel with a casual companion** — both are 9–11hr full-day trips with 5–6hrs of driving. Save those for the next two days solo.
+
+### June 8 (Mon) — Charyn Canyon *(solo, full day)*
+- ⏱️ **Long day — ~9–10hrs total** (~2.5hrs each way + 2–3hrs in canyon). No public transport — tour or car required.
 - **Valley of Castles** (12km canyon walk, dramatic orange sandstone formations) + Charyn River
 - Optional add-on: **Kolsai Lakes** (alpine forest lakes 2hrs further) — only if doing a 2-day combo
 
@@ -209,8 +213,8 @@ Baku (AZ) → [fly ~$60] Tbilisi (GE, brief stopover) → [marshrutka] Yerevan (
 > | Private car (split 4 people) | ~$20–25pp | Hotel/hostel can arrange ~$80–100/car |
 > | DIY marshrutka | cheapest but hard | Bus toward Kegen, get dropped at Charyn turnoff → 10km walk to entrance. Not recommended. |
 
-### June 9 (Tue) — Altyn Emel Day Trip (Singing Dunes)
-- ~200km east (~3hrs). Jeep/guided tour required. **1-day trip — no overnight.**
+### June 9 (Tue) — Altyn Emel Day Trip (Singing Dunes) *(solo, full day)*
+- ⏱️ **Long day — ~10–11hrs total** (~3hrs each way). Jeep/guided tour required. **1-day trip — no overnight.**
 - Depart Almaty ~07:00 → arrive park ~10:00
 - **Singing Dunes** (1.5km × 120m sand mountain that "hums" in the wind — one of very few in the world) — aim for late afternoon light ~16:00–18:00
 - Return Almaty ~19:00–20:00
