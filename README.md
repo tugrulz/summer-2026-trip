@@ -166,11 +166,15 @@ Baku (AZ) → [fly ~$60] Tbilisi (GE, brief stopover) → [marshrutka] Yerevan (
 
 ---
 
-## 🇰🇿 KAZAKHSTAN: ALMATY — June 4 → June 10
+## 🇰🇿 KAZAKHSTAN: ALMATY — June 3 → June 10
 
 > **Why**: Tree-lined Soviet planned city at 700m beneath the Tian Shan mountains, surprisingly hip café scene, gateway to wild landscapes.
 
 > **Accommodation**: 🏠 [Central Almaty Meridian Apartment](https://www.booking.com/hotel/kz/central-almaty-meridian.html) — city centre, confirmed.
+
+### June 3 (Wed) — Arrive Almaty (~23:00)
+- Late arrival from Bishkek (18:00 bus, ~5–6hrs incl. Korday border)
+- Check in, sleep — June 4 is the first full day
 
 ### June 4 (Thu) — Almaty City Day 1
 - **Green Bazaar** (Zelyony, fruit/veg/horse meat counters), **Panfilov Park** + **Zenkov Cathedral** (one of world's tallest wooden buildings, no nails), **Central State Museum**
