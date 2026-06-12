@@ -274,25 +274,40 @@ Baku (AZ) → [fly ~$60] Tbilisi (GE, brief stopover) → [marshrutka] Yerevan (
 - **Flame Towers** viewpoint (Şəhidlər Xiyabanı) at sunset for the city panorama
 - 🍴 **⚽ 20:00 — Australia vs Turkey** | Sports bar — try **Finnegan's** (Irish), **Phoenix Pub**, or any Old City cafe with screens
 
-### June 14 (Sun) — Gobustan + Mud Volcanoes
-- **Gobustan National Park** (~65km south): 6,000+ Bronze Age petroglyphs (UNESCO), mud volcano museum
-- **Absheron Mud Volcanoes** (~40km from city): alien landscape, gentle eruptions of cool mud — world's densest concentration. Need a 4WD or tour to reach the field.
-- Evening: **Heydar Aliyev Centre** (Zaha Hadid masterpiece — visit at night for the lighting)
+### June 14 (Sun) — Full Day: Gobustan + Mud Volcanoes + Fire Sites
+- **Gobustan National Park** (~65km south): 6,000+ Bronze Age petroglyphs (UNESCO) + interactive rock art museum
+- **Mud Volcanoes Tourist Complex** (opened 2024, accessible by regular car): 12-hectare moonscape with walkway, panoramic platform, exhibition — or old Gilinj field (4WD jeep, rawer experience)
+- **Ateshgah Fire Temple** (Surakhani, ~25km from Baku): Zoroastrian/Hindu fire temple built around a natural gas vent
+- **Yanar Dag** ("Burning Mountain"): hillside burning continuously from a natural gas seep, 65+ years and counting
+- Evening: **Heydar Aliyev Centre** (Zaha Hadid masterpiece — visit at night for the lighting; June 15 is now a buffer day before the train)
 
-> **💸 Gobustan + Mud Volcanoes tour options**:
+> **💸 Book a full-day GYG combo — covers all four sites in one go**
 > | Option | ~Price | Notes |
 > |--------|--------|-------|
-> | **Old City Tours** group half-day | **~$19–29pp** | Hotel pickup included, drop at Mini Venice ~13:30. [oldcity.tours](https://www.oldcity.tours/thing-to-do/group-tours/mud-volcanoes-gobustan-group-tour) |
-> | **Best Baku Tours** half-day | ~$25pp | 4–5 hrs. [bestbakutours.com](https://bestbakutours.com/tour/gobustan-and-mud-volcanoes-tour-half-day/) |
-> | GetYourGuide combo (Gobustan + Fire Temple + Yanar Dag) | ~$29pp, 7hrs | Full day, covers Jun 14 + Jun 15 sites in one go |
-> | DIY Gobustan only | ~$3 | Bus 195 from Avtovağzal → Gobustan town, then taxi to park. Mud volcanoes need a 4WD taxi (negotiate ~15 AZN). |
-> | ⚠️ Mandatory surcharge | +30 AZN/pp | Cash only, collected at tour start for 4WD vehicle to mud volcano field. Bring it regardless of which option. |
+> | **[Full-Day Gobustan + Absheron All-Inclusive](https://www.getyourguide.com/baku-l1408/baku-gobustan-and-absheron-guided-day-tour-t289875/)** (GYG t289875) | **~$54–70pp** | Hotel pickup + guide + lunch; verify fees included — some "all-inclusive" listings still charge 40–50 AZN on-site |
+> | **[Gobustan, Mud Volcanoes, Fire Temple & Yanar Dag](https://www.getyourguide.com/baku-l1408/gobustan-absheron-tour-t517765/)** (GYG t517765) | **~$54–65pp** | All 4 sites; lunch sometimes included — check before booking |
+> | **Private tour** (Jin Travel / Azterra) | ~$82–100/trip total | All fees + lunch; priced per trip not per person — good solo value |
+> | DIY Gobustan only | ~$4 | Bus 195 from Avtovağzal → Gobustan town, taxi to park; Ateshgah by Bus 184, Yanar Dag by Bus 157 |
+>
+> ⚠️ **Before booking: confirm entrance fees are included.** Many "all-inclusive" GYG listings still charge 40–50 AZN separately on the day. Route should go Gobustan first (south) → fire sites second (north) — not reversed.
 
-### June 15 (Mon) — Fire Sites + Depart Ganja
-- **Ateshgah Fire Temple** (Surakhani, Zoroastrian/Hindu fire temple at natural gas vent)
-- **Yanar Dag** ("Burning Mountain" — hillside continuously on fire from natural gas seep, 65 years and counting)
+> **📋 Entrance fees (2025–2026 confirmed rates — bring cash)**
+> | Site | Foreign tourist fee |
+> |------|-------------------|
+> | Gobustan Rock Art Museum + open-air site | **10 AZN** (~$6) |
+> | Mud Volcanoes Tourist Complex (official 2024 complex) | **15 AZN** (~$9) |
+> | Off-road jeep to old Gilinj field (if operator uses old route, on top of above) | **+15–30 AZN** |
+> | Ateshgah Fire Temple | **9 AZN** (~$5) |
+> | Yanar Dag | **9 AZN** (~$5) |
+> | Ateshgah + Yanar Dag combo ticket | **15 AZN** (saves 3 AZN; verify at ticket desk — some sources cite 25 AZN) |
+> | Bibi-Heybat Mosque (common en-route stop) | Free |
+>
+> **💵 Bring 80–100 AZN cash (~$47–59 USD)** if fees aren't confirmed included in your tour. If the tour is genuinely all-in, 20–30 AZN covers drinks, tips, and souvenirs. No ATMs at Gobustan — withdraw in Baku the night before.
+
+### June 15 (Mon) — Slow Baku Morning + Depart Ganja
+- **Carpet Museum** (the building is literally a giant rolled carpet — 5 AZN inside, free exterior) or **Mini Venice** canal walk on the Boulevard
 - Lunch: **Mərcan** tea house in Old City for *piti* (lamb-chickpea stew in clay pot, Azerbaijan's iconic dish)
-- Last walk along the Boulevard
+- Last Icheri Sheher wander, last Boulevard walk
 - **🚂 Evening: overnight train Baku → Ganja** (~$5–8, ~20:00 depart, arrives early morning)
   - Bring water + snacks. Sleeper berths basic but functional.
 
